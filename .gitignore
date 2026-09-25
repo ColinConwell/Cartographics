@@ -1,0 +1,22 @@
+# IDE Cache
+.vscode/
+
+# ADE Cache
+.agents/
+.cursor/
+.codex/
+.claude/
+.firecrawl/
+mcp.json
+!mcp.json.example
+**/.venv/
+
+# Environment
+.env.local
+!.env.example
+
+# Python
+__pycache__/
+
+# NodeJS
+node_modules/

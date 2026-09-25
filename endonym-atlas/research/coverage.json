@@ -1,0 +1,20 @@
+{
+  "date": "2026-09-25",
+  "countries": 197,
+  "unMembers": 193,
+  "selectedNameVariants": 300,
+  "distinctLanguageLabels": 134,
+  "placesWithAudio": 106,
+  "variantsWithAudio": 129,
+  "distinctAudioFiles": 128,
+  "variantsWithIPA": 223,
+  "wikipediaTableRowsMatched": 197,
+  "countryArticleFetchesSucceeded": 158,
+  "countryArticleFetchesAttempted": 197,
+  "placesWithoutMatchedPolygon": [
+    "Tuvalu"
+  ],
+  "allPlacesHaveCoordinatesAndBrowseEntries": true,
+  "audioFilesDecoded": 128,
+  "checksPassed": true
+}
