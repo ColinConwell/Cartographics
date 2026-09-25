@@ -1,0 +1,10 @@
+window.PROJECTIONS = [
+ {id:'equal-earth',name:'Equal Earth',factory:'geoEqualEarth',property:'Equal-Area',headline:'Preserves relative area',description:'Continents retain their correct relative areas. Shapes and distances change, especially toward the outer edges.'},
+ {id:'mercator',name:'Mercator',factory:'geoMercator',property:'Conformal',headline:'Preserves local angles',description:'Local angles are preserved, but area expands rapidly near the poles. The poles cannot be shown; this view stops near ±85.05°.'},
+ {id:'natural-earth',name:'Natural Earth',factory:'geoNaturalEarth1',property:'Compromise',headline:'Balances several kinds of distortion',description:'A compromise view with a rounded outline. It preserves neither area nor local angles exactly.'},
+ {id:'equirectangular',name:'Equirectangular',factory:'geoEquirectangular',property:'Equidistant Cylindrical',headline:'Keeps meridians evenly scaled',description:'Latitude and longitude become a rectangular grid. Distances along meridians and the equator are correctly scaled; high latitudes stretch sideways.'},
+ {id:'orthographic',name:'Orthographic',factory:'geoOrthographic',property:'Perspective',headline:'Shows a hemisphere from space',description:'Parallel viewing rays create a globe-like view. Areas shrink toward the rim, and the far hemisphere is hidden.'},
+ {id:'mollweide',name:'Mollweide',factory:'geoMollweide',property:'Equal-Area',headline:'Fits equal areas into an ellipse',description:'The elliptical outline keeps relative areas in proportion. Shapes stretch near the outer meridians and poles.'},
+ {id:'robinson',name:'Robinson',factory:'geoRobinson',property:'Compromise',headline:'Trades exactness for visual balance',description:'A tabulated compromise designed for world maps. Neither relative areas nor local angles are preserved exactly.'},
+ {id:'sinusoidal',name:'Sinusoidal',factory:'geoSinusoidal',property:'Equal-Area',headline:'Preserves area and parallel lengths',description:'Distances along parallels retain their scale. Shapes become strongly distorted away from the central meridian.'}
+];
