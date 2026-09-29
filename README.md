@@ -15,9 +15,9 @@ Visit `http://localhost:8000`. The collection and all four maps also work direct
 | Map | Exploration |
 | --- | --- |
 | [Endonym Atlas](cartographics/endonym-atlas/index.html) | The existing atlas of country names, language variants, and pronunciation recordings. |
-| [A Place of Our Own](cartographics/regional-endonyms/index.html) | Eight selected regional endonyms, searchable by name, language, or state. Cultural and administrative extents are distinguished and individually sourced. |
+| [The Places They Know](cartographics/regional-endonyms/index.html) | Eight selected regional endonyms, searchable by name, language, or state. Cultural and administrative extents are distinguished and individually sourced. |
 | [The Projection Room](cartographics/projection-room/index.html) | Eight mathematically implemented projections, compared side by side with synchronized central meridians and equal-radius geodesic circles. |
-| [The Spice Routes](cartographics/spice-routes/index.html) | Five culinary plants, with origin descriptions and 12 selected historical or archaeological episodes revealed through a timeline. |
+| [A World Wanting Flavor](cartographics/spice-routes/index.html) | Five culinary plants, with origin descriptions and 12 selected historical or archaeological episodes revealed through a timeline. |
 
 The landing page offers **Observatory**, **Parchment**, and **Routes** themes. Its real geographic globe rotates, supports dragging, and includes a pause control. Theme preference is remembered locally where browser storage is available. Reduced-motion preferences disable automatic globe rotation.
 

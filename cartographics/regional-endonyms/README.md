@@ -1,4 +1,4 @@
-# A Place of Our Own
+# The Places They Know
 
 Open `index.html` directly, or serve this folder with any static web server. All runtime libraries, geometry, and assets are local. No build or internet connection is required. External research links require a connection.
 
