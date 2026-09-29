@@ -19,7 +19,10 @@ if git -C "$publish_dir" ls-remote --exit-code --heads origin gh-pages >/dev/nul
 else
   git -C "$publish_dir" checkout --quiet --orphan gh-pages
 fi
-rsync -a --delete --exclude='.git/' "$repo_root/_site/" "$publish_dir/"
+# This is a fresh checkout, so removing tracked files also removes stale output.
+# Use Git and cp rather than requiring rsync on local act runners.
+git -C "$publish_dir" rm -r --quiet --ignore-unmatch .
+cp -a "$repo_root/_site/." "$publish_dir/"
 git -C "$publish_dir" config user.name 'github-actions[bot]'
 git -C "$publish_dir" config user.email '41898282+github-actions[bot]@users.noreply.github.com'
 git -C "$publish_dir" add --all

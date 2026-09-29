@@ -51,16 +51,43 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+      pages: read
     steps:
       - uses: actions/checkout@v4
+      - name: Check Pages Configuration
+        if: ${{ !env.ACT }}
+        uses: actions/configure-pages@v5
       - uses: actions/download-artifact@v4
         with:
           name: static-tree
           path: _site
+      - name: Use a Local Publishing Remote in act
+        if: ${{ env.ACT }}
+        run: |
+          git init --bare "$RUNNER_TEMP/pages-test.git"
+          git remote set-url origin "$RUNNER_TEMP/pages-test.git"
       - name: Stitch the Site onto gh-pages
         run: bash scripts/publish_branch.sh
+      - name: Verify Local Snapshot, History, and Stale File Removal in act
+        if: ${{ env.ACT }}
+        run: |
+          git clone --branch gh-pages "$RUNNER_TEMP/pages-test.git" "$RUNNER_TEMP/pages-snapshot"
+          diff -r --exclude=.git _site "$RUNNER_TEMP/pages-snapshot"
+          before=$(git ls-remote origin refs/heads/gh-pages)
+          bash scripts/publish_branch.sh
+          test "$before" = "$(git ls-remote origin refs/heads/gh-pages)"
+          touch "$RUNNER_TEMP/pages-snapshot/obsolete.txt"
+          git -C "$RUNNER_TEMP/pages-snapshot" add obsolete.txt
+          git -C "$RUNNER_TEMP/pages-snapshot" -c user.name=Test -c user.email=test@example.invalid commit -m Test
+          git -C "$RUNNER_TEMP/pages-snapshot" push origin gh-pages
+          previous=$(git -C "$RUNNER_TEMP/pages-snapshot" rev-parse HEAD)
+          bash scripts/publish_branch.sh
+          git -C "$RUNNER_TEMP/pages-snapshot" pull --ff-only
+          git -C "$RUNNER_TEMP/pages-snapshot" merge-base --is-ancestor "$previous" HEAD
+          diff -r --exclude=.git _site "$RUNNER_TEMP/pages-snapshot"
 
   deploy:
+    if: github.event_name != 'pull_request' && github.ref == 'refs/heads/main'
     needs: [build, snapshot]
     runs-on: ubuntu-latest
     permissions:
@@ -70,8 +97,7 @@ jobs:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
-      - name: Configure Pages
-        uses: actions/configure-pages@v5
       - name: Deploy the Same Validated Build
+        if: ${{ !env.ACT }}
         id: deployment
         uses: actions/deploy-pages@v4

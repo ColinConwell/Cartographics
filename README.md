@@ -46,12 +46,12 @@ The builder reads `cartographics/maps.json`, copies the landing page and the fou
 The [publishing workflow](.github/workflows/pages.yml) runs on pushes to `main`, pull requests, and manual dispatch. Pull requests validate and build without publishing. A push to `main` or manual run on `main`:
 
 1. Validates the source records and assembles `_site/`.
-2. Saves the validated output to the separate `gh-pages` branch, preserving its commit history.
+2. Checks Pages configuration and saves the validated output to the separate `gh-pages` branch, preserving its commit history.
 3. Deploys that same build with GitHub’s Pages artifact deployment actions.
 
 **One-time repository setting:** under **Settings → Pages → Build and deployment**, select **GitHub Actions** as the source. The `gh-pages` branch is an inspectable publication snapshot; do not also enable branch-based Pages builds. GitHub does not trigger another Pages workflow from a branch push made with `GITHUB_TOKEN`, so deployment is performed explicitly in the same workflow. No personal access token is needed. The repository must allow Actions and grant its workflow permission to write the publishing branch.
 
-After committing and pushing this work, the expected project URL is [colinconwell.github.io/Cartographics/](https://colinconwell.github.io/Cartographics/). This URL is an intended deployment destination, not a claim that the local changes have already been published.
+The project URL is [colinconwell.github.io/Cartographics/](https://colinconwell.github.io/Cartographics/). See the [GitHub automation index](.github/index.md) for action descriptions and local workflow testing with `nektos/act`.
 
 ## Adding Another Map
 
