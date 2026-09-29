@@ -1,0 +1,29 @@
+[
+  {
+    "family": "Noto Serif Tibetan",
+    "file": "assets/fonts/tibetan.ttf",
+    "license": "SIL Open Font License 1.1",
+    "source": "https://fonts.googleapis.com/css2?family=Noto%20Serif%20Tibetan&display=swap&text=%E0%BC%8B%E0%BD%82%E0%BD%96%E0%BD%A0%E0%BD%A1%E0%BD%A3%E0%BD%B4%E0%BE%B2",
+    "originalUrl": "https://fonts.gstatic.com/l/font?kit=gokGH7nwAEdtF9N45n0Vaz7O-pk0wsvxHeDXMfqguoCmIrYcPS7zacQCTIYsZsbUNk7biZceHv31CRUya2snwg&skey=1a84110d97f77ab0&v=v24",
+    "licenseSource": "https://raw.githubusercontent.com/google/fonts/main/ofl/notoseriftibetan/OFL.txt",
+    "subsetCharacters": "་གབའཡལུྲ"
+  },
+  {
+    "family": "Noto Sans Thaana",
+    "file": "assets/fonts/thaana.ttf",
+    "license": "SIL Open Font License 1.1",
+    "source": "https://fonts.googleapis.com/css2?family=Noto%20Sans%20Thaana&display=swap&text=%DE%80%DE%83%DE%87%DE%88%DE%8B%DE%96%DE%A7%DE%A8%DE%AC%DE%B0",
+    "originalUrl": "https://fonts.gstatic.com/l/font?kit=C8c14dM-vnz-s-3jaEsxlxHkBH-WZOETXfoQrfQ9Y4XrbhLhhv7oNHXstwgMgZqbbHtuvGm0OWK-4w&skey=682cc36f365f832e&v=v26",
+    "licenseSource": "https://raw.githubusercontent.com/google/fonts/main/ofl/notosansthaana/OFL.txt",
+    "subsetCharacters": "ހރއވދޖާިެް"
+  },
+  {
+    "family": "Noto Sans Tifinagh",
+    "file": "assets/fonts/tifinagh.ttf",
+    "license": "SIL Open Font License 1.1",
+    "source": "https://fonts.googleapis.com/css2?family=Noto%20Sans%20Tifinagh&display=swap&text=%E2%B4%B0%E2%B4%B1%E2%B4%B7%E2%B4%BB%E2%B5%89%E2%B5%8D%E2%B5%8E%E2%B5%94%E2%B5%96%E2%B5%A2%E2%B5%A3",
+    "originalUrl": "https://fonts.gstatic.com/l/font?kit=I_uzMoCduATTei9eI8dawkHIwvmhCvbn6qHhm8JEArep-P_4KwOvX3rW4i5Gkzq5mtWv1nl8x6rpA3km&skey=11cb8f01a0504aa8&v=v21",
+    "licenseSource": "https://raw.githubusercontent.com/google/fonts/main/ofl/notosanstifinagh/OFL.txt",
+    "subsetCharacters": "ⴰⴱⴷⴻⵉⵍⵎⵔⵖⵢⵣ"
+  }
+]

@@ -1,0 +1,3525 @@
+{
+  "AFG-0": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/%D8%A7%D9%81%D8%BA%D8%A7%D9%86%D8%B3%D8%AA%D8%A7%D9%86",
+    "lookup": "No matching language section retrieved"
+  },
+  "AFG-1": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/%D8%A7%D9%81%D8%BA%D8%A7%D9%86%D8%B3%D8%AA%D8%A7%D9%86",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "/af.ɣɑ.nɪ.stɑn/",
+      "/ap.ɣɑ.nɪ.stɑn/",
+      "[äv.ɣɑ́.nɪ.s̪t̪ɑ́n]"
+    ]
+  },
+  "ALB-0": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/Shqip%C3%ABria",
+    "lookup": "Language section retrieved"
+  },
+  "DZA-0": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "/al.d͡ʒa.zaː.ʔir/",
+      "/(ɪ)d.dzaː.jir/",
+      "/(ɪ)l.ʒa.zaː.ʔir/"
+    ],
+    "audio": {
+      "file": "assets/audio/005829a27e8f0594.mp3",
+      "title": "LL-Q13955_(ara)-Reda_Kerbouche-الجزائر.wav",
+      "author": "Speaker: Reda Kerbouche Recorder: Reda Kerbouche",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:LL-Q13955_%28ara%29-Reda_Kerbouche-%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1.wav",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/9/9a/LL-Q13955_%28ara%29-Reda_Kerbouche-%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1.wav/LL-Q13955_%28ara%29-Reda_Kerbouche-%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1.wav.mp3",
+      "duration": "2",
+      "language": "Arabic"
+    }
+  },
+  "DZA-1": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/%E2%B4%B7%E2%B5%A3%E2%B4%B0%E2%B5%A2%E2%B4%BB%E2%B5%94",
+    "lookup": "No matching language section retrieved"
+  },
+  "AGO-0": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/Angola",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "/ɐ̃ˈɡɔ.lɐ/"
+    ]
+  },
+  "AND-0": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/Andorra",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "[anˈdɔ.ra]",
+      "[ənˈdɔ.rə]",
+      "[ənˈdo.rə]"
+    ],
+    "audio": {
+      "file": "assets/audio/a50243abf41f40f3.mp3",
+      "title": "LL-Q7026_(cat)-Millars-Andorra.wav",
+      "author": "Speaker: Millars Recorder: Millars",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:LL-Q7026_%28cat%29-Millars-Andorra.wav",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/8/81/LL-Q7026_%28cat%29-Millars-Andorra.wav/LL-Q7026_%28cat%29-Millars-Andorra.wav.mp3",
+      "duration": "2",
+      "language": "Catalan"
+    }
+  },
+  "ARG-0": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/Argentina",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "/aɾxenˈtina/",
+      "[aɾ.xẽn̪ˈt̪i.na]"
+    ],
+    "audioOmitted": "Incomplete author/license metadata"
+  },
+  "ATG-0": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/Antigua_and_Barbuda",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "/ænˌtiː.ɡə ən(d) bɑːˈb(j)uː.də/",
+      "/ænˌti.ɡ(w)ə ənd bɑɹˈbju.də/",
+      "/ænˌti.ɡə/"
+    ],
+    "audio": {
+      "file": "assets/audio/e61047ba0018c84c.mp3",
+      "title": "en-us-Antigua_and_Barbuda.ogg",
+      "author": "EncycloPetey",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:en-us-Antigua_and_Barbuda.ogg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/0/01/En-us-Antigua_and_Barbuda.ogg/En-us-Antigua_and_Barbuda.ogg.mp3",
+      "duration": "3",
+      "language": "English"
+    }
+  },
+  "ARM-0": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/%D5%80%D5%A1%D5%B5%D5%A1%D5%BD%D5%BF%D5%A1%D5%B6",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "/hɑjɑsˈtɑn/ [hɑjɑstɑ́n]",
+      "/hɑjɑsˈdɑn/ [hɑjɑstɑ́n]"
+    ],
+    "audio": {
+      "file": "assets/audio/3951c6bb092a0666.mp3",
+      "title": "Hy-Հայաստան.ogg",
+      "author": "Emily007~hywiki",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Hy-%D5%80%D5%A1%D5%B5%D5%A1%D5%BD%D5%BF%D5%A1%D5%B6.ogg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/2/27/Hy-%D5%80%D5%A1%D5%B5%D5%A1%D5%BD%D5%BF%D5%A1%D5%B6.ogg/Hy-%D5%80%D5%A1%D5%B5%D5%A1%D5%BD%D5%BF%D5%A1%D5%B6.ogg.mp3",
+      "duration": "1",
+      "language": "Armenian"
+    }
+  },
+  "AUS-0": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/Australia",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "/ɒˈstɹeɪ.liː.ə/",
+      "/ɒˈstɹeɪ.li.jə/",
+      "/ɔːˈstɹeɪ.lɪ.ə/"
+    ],
+    "audio": {
+      "file": "assets/audio/f67be4d6ab6fb34b.mp3",
+      "title": "LL-Q1860_(eng)-Soundguys-Australia.wav",
+      "author": "Speaker: Soundguys Recorder: Soundguys",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "source": "https://commons.wikimedia.org/wiki/File:LL-Q1860_%28eng%29-Soundguys-Australia.wav",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/a/a6/LL-Q1860_%28eng%29-Soundguys-Australia.wav/LL-Q1860_%28eng%29-Soundguys-Australia.wav.mp3",
+      "duration": "2",
+      "language": "English"
+    }
+  },
+  "AUT-0": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/%C3%96sterreich",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "/ˈøːstəˌʁaɪç/",
+      "/ˈøːstɐˌʁaɪ̯ç/",
+      "[ˈøːstɐˌʀaɪ̯ç]"
+    ],
+    "audio": {
+      "file": "assets/audio/56616d9a07c05785.mp3",
+      "title": "De-Österreich2.ogg",
+      "author": "Jeuwre",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:De-%C3%96sterreich2.ogg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/a/aa/De-%C3%96sterreich2.ogg/De-%C3%96sterreich2.ogg.mp3",
+      "duration": "2",
+      "language": "German"
+    }
+  },
+  "AZE-0": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/Az%C9%99rbaycan",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "[ɑ(ː)zæɾbɑjˈd͡ʒɑn]",
+      "[ɑ(ː)zæɾbɑjˈd͡zɑn]"
+    ],
+    "audio": {
+      "file": "assets/audio/26d69d66e9e57169.mp3",
+      "title": "az-az-Azərbaycan.ogg",
+      "author": "Allahverdi Verdizade",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:az-az-Az%C9%99rbaycan.ogg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/3/35/Az-az-Az%C9%99rbaycan.ogg/Az-az-Az%C9%99rbaycan.ogg.mp3",
+      "duration": "4",
+      "language": "Azerbaijani"
+    }
+  },
+  "BHS-0": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/The_Bahamas",
+    "lookup": "Language section retrieved"
+  },
+  "BHR-0": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/%D8%A7%D9%84%D8%A8%D8%AD%D8%B1%D9%8A%D9%86",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "/al.baħ.rajn/"
+    ]
+  },
+  "BGD-0": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "/baŋlad̪eʃ/",
+      "[ˈbaŋlad̪eʃ]"
+    ],
+    "audio": {
+      "file": "assets/audio/931a372af9d371a5.mp3",
+      "title": "LL-Q9610_(ben)-Titodutta-বাংলাদেশ.wav",
+      "author": "Speaker: Titodutta Recorder: Titodutta",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "source": "https://commons.wikimedia.org/wiki/File:LL-Q9610_%28ben%29-Titodutta-%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6.wav",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/0/09/LL-Q9610_%28ben%29-Titodutta-%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6.wav/LL-Q9610_%28ben%29-Titodutta-%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6.wav.mp3",
+      "duration": "2",
+      "language": "Bengali"
+    }
+  },
+  "BRB-0": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/Barbados",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "/bɑː(ɹ)ˈbeɪ.dɒs/",
+      "/bɑɹˈbeɪ.doʊs/",
+      "/bɑɹˈbeɪ.dəs/"
+    ],
+    "audio": {
+      "file": "assets/audio/9402f1f8d3988da4.mp3",
+      "title": "en-us-Barbados.ogg",
+      "author": "EncycloPetey",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:en-us-Barbados.ogg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/4/4b/En-us-Barbados.ogg/En-us-Barbados.ogg.mp3",
+      "duration": "2",
+      "language": "English"
+    }
+  },
+  "BLR-1": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/%D0%91%D0%B5%D0%BB%D0%B0%D1%80%D1%83%D1%81%D1%8C",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "[ˌbʲeɫɐˈrusʲ]",
+      "[bʲeɫaˈrusʲ]",
+      "[bʲəɫaˈrusʲ]"
+    ],
+    "audio": {
+      "file": "assets/audio/a46e370f288d1422.mp3",
+      "title": "Ru-Беларусь.ogg",
+      "author": "Myrkur",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Ru-%D0%91%D0%B5%D0%BB%D0%B0%D1%80%D1%83%D1%81%D1%8C.ogg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/1/13/Ru-%D0%91%D0%B5%D0%BB%D0%B0%D1%80%D1%83%D1%81%D1%8C.ogg/Ru-%D0%91%D0%B5%D0%BB%D0%B0%D1%80%D1%83%D1%81%D1%8C.ogg.mp3",
+      "duration": "2",
+      "language": "Russian"
+    }
+  },
+  "BLR-0": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/%D0%91%D0%B5%D0%BB%D0%B0%D1%80%D1%83%D1%81%D1%8C",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "[bʲeɫaˈrusʲ]"
+    ],
+    "audio": {
+      "file": "assets/audio/3960861bf2ac2ae9.mp3",
+      "title": "LL-Q9091_(bel)-Ssvb-Беларусь.wav",
+      "author": "Speaker: Ssvb Recorder: Ssvb",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "source": "https://commons.wikimedia.org/wiki/File:LL-Q9091_%28bel%29-Ssvb-%D0%91%D0%B5%D0%BB%D0%B0%D1%80%D1%83%D1%81%D1%8C.wav",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/a/a9/LL-Q9091_%28bel%29-Ssvb-%D0%91%D0%B5%D0%BB%D0%B0%D1%80%D1%83%D1%81%D1%8C.wav/LL-Q9091_%28bel%29-Ssvb-%D0%91%D0%B5%D0%BB%D0%B0%D1%80%D1%83%D1%81%D1%8C.wav.mp3",
+      "duration": "2",
+      "language": "Belarusian"
+    }
+  },
+  "BEL-0": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/Belgi%C3%AB",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "/ˈbɛl.ɣi.jə/"
+    ],
+    "audio": {
+      "file": "assets/audio/94ed9be8f7b15729.mp3",
+      "title": "Nl-België.ogg",
+      "author": "Hooiwind",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Nl-Belgi%C3%AB.ogg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/4/42/Nl-Belgi%C3%AB.ogg/Nl-Belgi%C3%AB.ogg.mp3",
+      "duration": "1",
+      "language": "Dutch"
+    }
+  },
+  "BEL-1": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/Belgique",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "/bɛl.ʒik/"
+    ],
+    "audio": {
+      "file": "assets/audio/ec6908748dd43665.mp3",
+      "title": "Fr-Belgique.ogg",
+      "author": "ZoliveR",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "source": "https://commons.wikimedia.org/wiki/File:Fr-Belgique.ogg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/6/6c/Fr-Belgique.ogg/Fr-Belgique.ogg.mp3",
+      "duration": "2",
+      "language": "French"
+    }
+  },
+  "BLZ-0": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/Belize",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "/bəˈliːz/",
+      "/bɛlˈiːz/",
+      "/beɪlˈiːz/"
+    ],
+    "audio": {
+      "file": "assets/audio/7ff6ce62de3398a0.mp3",
+      "title": "LL-Q1860_(eng)-Soundguys-Belize.wav",
+      "author": "Speaker: Soundguys Recorder: Soundguys",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "source": "https://commons.wikimedia.org/wiki/File:LL-Q1860_%28eng%29-Soundguys-Belize.wav",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/4/4b/LL-Q1860_%28eng%29-Soundguys-Belize.wav/LL-Q1860_%28eng%29-Soundguys-Belize.wav.mp3",
+      "duration": "1",
+      "language": "English"
+    }
+  },
+  "BEL-2": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/Belgien",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "/ˈbɛlɡi̯ən/"
+    ],
+    "audio": {
+      "file": "assets/audio/1784fe469fcd6926.mp3",
+      "title": "De-Belgien.ogg",
+      "author": "MiER",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "source": "https://commons.wikimedia.org/wiki/File:De-Belgien.ogg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/7/7c/De-Belgien.ogg/De-Belgien.ogg.mp3",
+      "duration": "2",
+      "language": "German"
+    }
+  },
+  "BTN-0": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/%E0%BD%A0%E0%BD%96%E0%BE%B2%E0%BD%B4%E0%BD%82%E0%BC%8B%E0%BD%A1%E0%BD%B4%E0%BD%A3",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "/ʈuk̚˩.yː˩/"
+    ]
+  },
+  "BEN-0": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/B%C3%A9nin",
+    "lookup": "No matching language section retrieved"
+  },
+  "BOL-1": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/Buliwya",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "[bʊlɪwja]"
+    ]
+  },
+  "BOL-0": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/Bolivia",
+    "lookup": "No matching language section retrieved"
+  },
+  "BOL-2": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/Wuliwya",
+    "lookup": "No matching language section retrieved"
+  },
+  "BOL-3": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/Vol%C3%ADvia",
+    "lookup": "No matching language section retrieved"
+  },
+  "BIH-0": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/Bosna_i_Hercegovina",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "/bôsna i xěrt͡seɡoʋina/"
+    ]
+  },
+  "BIH-1": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/%D0%91%D0%BE%D1%81%D0%BD%D0%B0_%D0%B8_%D0%A5%D0%B5%D1%80%D1%86%D0%B5%D0%B3%D0%BE%D0%B2%D0%B8%D0%BD%D0%B0",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "/bôsna i xěrt͡seɡoʋina/"
+    ]
+  },
+  "BIH-2": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/Bosna_i_Hercegovina",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "/bôsna i xěrt͡seɡoʋina/"
+    ]
+  },
+  "BWA-0": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/Botswana",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "/bʊ.ˈt͡swa.na/"
+    ]
+  },
+  "BRA-0": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/Brasil",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "/bɾaˈziw/",
+      "[bɾaˈziʊ̯]",
+      "/bɾɐˈzil/"
+    ],
+    "audio": {
+      "file": "assets/audio/eff3ade844792b2b.mp3",
+      "title": "Pt-br-Brasil.ogg",
+      "author": "Felipe Menegaz",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "source": "https://commons.wikimedia.org/wiki/File:Pt-br-Brasil.ogg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/b/b5/Pt-br-Brasil.ogg/Pt-br-Brasil.ogg.mp3",
+      "duration": "3",
+      "language": "Portuguese"
+    }
+  },
+  "BRN-0": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/Brunei",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "/ˈbrunaj/ [ˈbru.nai̯]"
+    ],
+    "audio": {
+      "file": "assets/audio/3e5c59c7fa042370.mp3",
+      "title": "Brunei-pronunciation-ms.ogg",
+      "author": "Zulfadli",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Brunei-pronunciation-ms.ogg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/0/05/Brunei-pronunciation-ms.ogg/Brunei-pronunciation-ms.ogg.mp3",
+      "duration": "1",
+      "language": "Malay"
+    }
+  },
+  "BRN-1": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/%D8%A8%D8%B1%D9%88%D9%86%D9%8A",
+    "lookup": "Language section retrieved"
+  },
+  "BGR-0": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/%D0%91%D1%8A%D0%BB%D0%B3%D0%B0%D1%80%D0%B8%D1%8F",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "[bɐɫˈɡarijɐ]"
+    ],
+    "audio": {
+      "file": "assets/audio/45eee0eb89c91b90.mp3",
+      "title": "LL-Q7918_(bul)-Kiril_kovachev-България.wav",
+      "author": "Speaker: Kiril kovachev Recorder: Kiril kovachev",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:LL-Q7918_%28bul%29-Kiril_kovachev-%D0%91%D1%8A%D0%BB%D0%B3%D0%B0%D1%80%D0%B8%D1%8F.wav",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/2/21/LL-Q7918_%28bul%29-Kiril_kovachev-%D0%91%D1%8A%D0%BB%D0%B3%D0%B0%D1%80%D0%B8%D1%8F.wav/LL-Q7918_%28bul%29-Kiril_kovachev-%D0%91%D1%8A%D0%BB%D0%B3%D0%B0%D1%80%D0%B8%D1%8F.wav.mp3",
+      "duration": "2",
+      "language": "Bulgarian"
+    }
+  },
+  "BFA-0": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/Burkina_Faso",
+    "lookup": "No matching language section retrieved"
+  },
+  "BDI-1": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/Burundi",
+    "lookup": "No matching language section retrieved"
+  },
+  "BDI-0": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/Uburundi",
+    "lookup": "No matching language section retrieved"
+  },
+  "KHM-0": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/%E1%9E%80%E1%9E%98%E1%9F%92%E1%9E%96%E1%9E%BB%E1%9E%87%E1%9E%B6",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "/kam.pu.ciə/"
+    ]
+  },
+  "CPV-0": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/Cabo_Verde",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "/ˈka.bu ˈveʁ.d͡ʒi/",
+      "[ˈka.bu ˈveɦ.d͡ʒi]",
+      "/ˈka.bu ˈveɾ.d͡ʒi/"
+    ],
+    "audio": {
+      "file": "assets/audio/9ef21989be635157.mp3",
+      "title": "Cabo-verde.wav",
+      "author": "Portrop",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Cabo-verde.wav",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/2/28/Cabo-verde.wav/Cabo-verde.wav.mp3",
+      "duration": "1",
+      "language": "Portuguese"
+    }
+  },
+  "CMR-0": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/Cameroun",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "/kam.ʁun/"
+    ],
+    "audio": {
+      "file": "assets/audio/de371e3d08bc299c.mp3",
+      "title": "Fr-Cameroun.ogg",
+      "author": "Clément Bucco-Lechat",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Fr-Cameroun.ogg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/f/fd/Fr-Cameroun.ogg/Fr-Cameroun.ogg.mp3",
+      "duration": "2",
+      "language": "French"
+    }
+  },
+  "CAN-0": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/Canada",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "/ˈkænədə/",
+      "/ˈkanədə/",
+      "/ˈkɛnədə/"
+    ],
+    "audioOmitted": "Incomplete author/license metadata"
+  },
+  "CAN-1": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/Canada",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "/ka.na.da/",
+      "/ka.na.dɑ/",
+      "[ka.naˈdɑ]"
+    ],
+    "audio": {
+      "file": "assets/audio/c7cbb91abf14ee2d.mp3",
+      "title": "Fr-Canada.ogg",
+      "author": "Vion Nicolas",
+      "license": "CC BY 2.0 fr",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/fr/deed.en",
+      "source": "https://commons.wikimedia.org/wiki/File:Fr-Canada.ogg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/d/dc/Fr-Canada.ogg/Fr-Canada.ogg.mp3",
+      "duration": "2",
+      "language": "French"
+    }
+  },
+  "CMR-1": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/Cameroon",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "/kæməˈɹuːn/"
+    ],
+    "audio": {
+      "file": "assets/audio/0c91cf04488899c8.mp3",
+      "title": "En-Cameroon-pronunciation.ogg",
+      "author": "Cans48 ( talk ) ( Uploads )",
+      "license": "GFDL",
+      "licenseUrl": "http://www.gnu.org/copyleft/fdl.html",
+      "source": "https://commons.wikimedia.org/wiki/File:En-Cameroon-pronunciation.ogg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/f/f1/En-Cameroon-pronunciation.ogg/En-Cameroon-pronunciation.ogg.mp3",
+      "duration": "1",
+      "language": "English"
+    }
+  },
+  "CAF-0": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/B%C3%AAafr%C3%AEka",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "/bɛ˥.a˩.fri˥.ka˩/"
+    ]
+  },
+  "CAF-1": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/Centrafrique",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "/sɑ̃.tʁa.fʁik/"
+    ],
+    "audio": {
+      "file": "assets/audio/2dc684da70075e95.mp3",
+      "title": "LL-Q150_(fra)-GrandCelinien-Centrafrique.wav",
+      "author": "Speaker: GrandCelinien Recorder: GrandCelinien",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_%28fra%29-GrandCelinien-Centrafrique.wav",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/2/28/LL-Q150_%28fra%29-GrandCelinien-Centrafrique.wav/LL-Q150_%28fra%29-GrandCelinien-Centrafrique.wav.mp3",
+      "duration": "2",
+      "language": "French"
+    }
+  },
+  "TCD-0": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/Tchad",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "/tʃad/"
+    ],
+    "audio": {
+      "file": "assets/audio/adea90cd203d493d.mp3",
+      "title": "Fr-Tchad.ogg",
+      "author": "Clément Bucco-Lechat",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Fr-Tchad.ogg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/6/66/Fr-Tchad.ogg/Fr-Tchad.ogg.mp3",
+      "duration": "1",
+      "language": "French"
+    }
+  },
+  "TCD-1": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/%D8%AA%D8%B4%D8%A7%D8%AF",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "/tu.ʃaː.du/",
+      "/tu.ʃaː.da/",
+      "/tu.ʃaːd.du/"
+    ]
+  },
+  "CHN-0": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/%E4%B8%AD%E5%9C%8B",
+    "lookup": "Language section retrieved",
+    "audio": {
+      "file": "assets/audio/f64e65f8cee4c994.mp3",
+      "title": "Zh-zhongguo.ogg",
+      "author": "Peter Isotalo",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "source": "https://commons.wikimedia.org/wiki/File:Zh-zhongguo.ogg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/6/6c/Zh-zhongguo.ogg/Zh-zhongguo.ogg.mp3",
+      "duration": "2",
+      "language": "Mandarin",
+      "speakerNote": "Source identifies a non-native Mandarin speaker."
+    }
+  },
+  "COL-0": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/Colombia",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "/koˈlombja/",
+      "[koˈlõm.bja]"
+    ],
+    "audio": {
+      "file": "assets/audio/efcb2973820039db.mp3",
+      "title": "Es-República_de_Colombia.oga",
+      "author": "No machine-readable author provided. Fibonacci assumed (based on copyright claims).",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "source": "https://commons.wikimedia.org/wiki/File:Es-Rep%C3%BAblica_de_Colombia.oga",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/7/7f/Es-Rep%C3%BAblica_de_Colombia.oga/Es-Rep%C3%BAblica_de_Colombia.oga.mp3",
+      "duration": "2",
+      "language": "Spanish"
+    }
+  },
+  "CHL-0": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/Chile",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "/ˈt͡ʃile/",
+      "[ˈt͡ʃi.le]"
+    ],
+    "audioOmitted": "Incomplete author/license metadata"
+  },
+  "COM-0": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/Komori",
+    "lookup": "No matching language section retrieved"
+  },
+  "COM-1": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/%D8%AC%D8%B2%D8%B1_%D8%A7%D9%84%D9%82%D9%85%D8%B1",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "/d͡ʒu.zur al.qu.mur/",
+      "/d͡ʒu.zur al.qa.mar/"
+    ]
+  },
+  "COM-2": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/Comores",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "/kɔ.mɔʁ/"
+    ],
+    "audio": {
+      "file": "assets/audio/5d663ddc787532fd.mp3",
+      "title": "Fr-Comores.ogg",
+      "author": "Clément Bucco-Lechat",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Fr-Comores.ogg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/2/26/Fr-Comores.ogg/Fr-Comores.ogg.mp3",
+      "duration": "1",
+      "language": "French"
+    }
+  },
+  "HRV-0": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/Hrvatska",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "/xř̩ʋaːtskaː/"
+    ]
+  },
+  "CRI-0": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/Costa_Rica",
+    "lookup": "No matching language section retrieved"
+  },
+  "CYP-0": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/%CE%9A%CF%8D%CF%80%CF%81%CE%BF%CF%82",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "/ˈci.pɾos/",
+      "/ˈt͡ʃi.pros/"
+    ]
+  },
+  "CUB-0": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/Cuba",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "/ˈkuba/",
+      "[ˈku.β̞a]"
+    ],
+    "audio": {
+      "file": "assets/audio/3407c2836bf6e5da.mp3",
+      "title": "Es-am-lat-Cuba.ogg",
+      "author": "Andrés Samael Cortina Ramírez",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "source": "https://commons.wikimedia.org/wiki/File:Es-am-lat-Cuba.ogg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/4/4e/Es-am-lat-Cuba.ogg/Es-am-lat-Cuba.ogg.mp3",
+      "duration": "2",
+      "language": "Spanish"
+    }
+  },
+  "CYP-1": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/K%C4%B1br%C4%B1s",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "[ˈkɯbɾɯs]",
+      "[ˈɡɯbɾɯs]",
+      "[ˈɡɯpɾɯs]"
+    ],
+    "audio": {
+      "file": "assets/audio/23e8dc9d06e735a9.mp3",
+      "title": "LL-Q256_(tur)-ToprakM-Kıbrıs.wav",
+      "author": "Speaker: ToprakM Recorder: ToprakM",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:LL-Q256_%28tur%29-ToprakM-K%C4%B1br%C4%B1s.wav",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/f/f5/LL-Q256_%28tur%29-ToprakM-K%C4%B1br%C4%B1s.wav/LL-Q256_%28tur%29-ToprakM-K%C4%B1br%C4%B1s.wav.mp3",
+      "duration": "1",
+      "language": "Turkish"
+    }
+  },
+  "CZE-0": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/%C4%8Cesko",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "[ˈt͡ʃɛsko]"
+    ],
+    "audio": {
+      "file": "assets/audio/44d54e7a8c8d6ad2.mp3",
+      "title": "Cs-Česko.ogg",
+      "author": "LamereTot",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Cs-%C4%8Cesko.ogg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/d/d3/Cs-%C4%8Cesko.ogg/Cs-%C4%8Cesko.ogg.mp3",
+      "duration": "1",
+      "language": "Czech"
+    }
+  },
+  "CIV-0": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/C%C3%B4te_d%27Ivoire",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "/kot d‿i.vwaʁ/",
+      "/koʊ̯t divwɑːʁ/"
+    ],
+    "audio": {
+      "file": "assets/audio/22242748bffa6212.mp3",
+      "title": "Fr-Côte-d'Ivoire-fr-Paris.ogg",
+      "author": "User:Kipmaster",
+      "license": "CC BY-SA 2.0 fr",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/fr/deed.en",
+      "source": "https://commons.wikimedia.org/wiki/File:Fr-C%C3%B4te-d%27Ivoire-fr-Paris.ogg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/5/5d/Fr-C%C3%B4te-d%27Ivoire-fr-Paris.ogg/Fr-C%C3%B4te-d%27Ivoire-fr-Paris.ogg.mp3",
+      "duration": "2",
+      "language": "French"
+    }
+  },
+  "COD-0": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/R%C3%A9publique_d%C3%A9mocratique_du_Congo",
+    "lookup": "No matching language section retrieved"
+  },
+  "DJI-0": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/Jabuuti",
+    "lookup": "No matching language section retrieved"
+  },
+  "DNK-0": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/Danmark",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "/ˈdanmɑɡ/",
+      "[ˈd̥ænmɑɡ̊]",
+      "[ˈtænmɑ̈k]"
+    ],
+    "audioOmitted": "Incomplete author/license metadata"
+  },
+  "DJI-1": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/Djibouti",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "/dʒi.bu.ti/"
+    ],
+    "audio": {
+      "file": "assets/audio/b3f47e53a5b4ae12.mp3",
+      "title": "Fr-Djibouti.ogg",
+      "author": "Clément Bucco-Lechat",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Fr-Djibouti.ogg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/5/59/Fr-Djibouti.ogg/Fr-Djibouti.ogg.mp3",
+      "duration": "2",
+      "language": "French"
+    }
+  },
+  "DJI-3": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/Gabuuti",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "/ɡaˈbuːti/ [ɡʌˈbuːtɪ]",
+      "/ɡabuːˈti/ [ɡʌbuːˈtɪ]"
+    ]
+  },
+  "DJI-2": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/%D8%AC%D9%8A%D8%A8%D9%88%D8%AA%D9%8A",
+    "lookup": "Language section retrieved"
+  },
+  "DOM-0": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/Rep%C3%BAblica_Dominicana",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "/reˌpublika dominiˈkana/",
+      "[reˌpu.β̞li.ka ð̞o.mi.niˈka.na]"
+    ],
+    "audio": {
+      "file": "assets/audio/330d01364d3146e4.mp3",
+      "title": "LL-Q1321_(spa)-Rodelar-República_Dominicana.wav",
+      "author": "Speaker: Rodelar Recorder: Rodelar",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:LL-Q1321_%28spa%29-Rodelar-Rep%C3%BAblica_Dominicana.wav",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/0/0f/LL-Q1321_%28spa%29-Rodelar-Rep%C3%BAblica_Dominicana.wav/LL-Q1321_%28spa%29-Rodelar-Rep%C3%BAblica_Dominicana.wav.mp3",
+      "duration": "2",
+      "language": "Spanish"
+    }
+  },
+  "DMA-0": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/Dominica",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "/ˌdɒ.mɪˈniː.kə/",
+      "/dəˈmɪ.nɪ.kə/",
+      "/ˌdɑ.mɪˈniː.kə/"
+    ],
+    "audio": {
+      "file": "assets/audio/28020958a475e3f4.mp3",
+      "title": "LL-Q1860_(eng)-Vealhurl-Dominica.wav",
+      "author": "Speaker: Vealhurl Recorder: Vealhurl",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:LL-Q1860_%28eng%29-Vealhurl-Dominica.wav",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/8/8e/LL-Q1860_%28eng%29-Vealhurl-Dominica.wav/LL-Q1860_%28eng%29-Vealhurl-Dominica.wav.mp3",
+      "duration": "2",
+      "language": "English"
+    }
+  },
+  "ECU-0": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/Ecuador",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "/ekwaˈdoɾ/",
+      "[e.kwaˈð̞oɾ]"
+    ],
+    "audioOmitted": "Incomplete author/license metadata"
+  },
+  "EGY-1": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/%D9%85%D8%B5%D8%B1",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "/masˤr/",
+      "[mɑsˤɾ]"
+    ]
+  },
+  "EGY-0": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/%D9%85%D8%B5%D8%B1",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "/misˤr/"
+    ],
+    "audio": {
+      "file": "assets/audio/a77c59f4107d9cd0.mp3",
+      "title": "Ar-Misr2.oga",
+      "author": "Haddara",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Ar-Misr2.oga",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/c/c0/Ar-Misr2.oga/Ar-Misr2.oga.mp3",
+      "duration": "3",
+      "language": "Arabic"
+    }
+  },
+  "SLV-0": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/El_Salvador",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "/el salbaˈdoɾ/",
+      "[el sal.β̞aˈð̞oɾ]"
+    ]
+  },
+  "GNQ-1": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/Guin%C3%A9e_%C3%A9quatoriale",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "/ɡi.ne e.kwa.tɔ.ʁjal/"
+    ],
+    "audio": {
+      "file": "assets/audio/6e62118a41b3183e.mp3",
+      "title": "Fr-Guinée_équatoriale.oga",
+      "author": "Clément Bucco-Lechat",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Fr-Guin%C3%A9e_%C3%A9quatoriale.oga",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/0/01/Fr-Guin%C3%A9e_%C3%A9quatoriale.oga/Fr-Guin%C3%A9e_%C3%A9quatoriale.oga.mp3",
+      "duration": "2",
+      "language": "French"
+    }
+  },
+  "GNQ-0": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/Guinea_Ecuatorial",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "/ɡiˌnea ekwatoˈɾjal/",
+      "[ɡiˌne.a e.kwa.t̪oˈɾjal]"
+    ],
+    "audio": {
+      "file": "assets/audio/731ef54a581453be.mp3",
+      "title": "Es-Guinea_Ecuatorial.oga",
+      "author": "Puertagustavo99",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Es-Guinea_Ecuatorial.oga",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/f/f2/Es-Guinea_Ecuatorial.oga/Es-Guinea_Ecuatorial.oga.mp3",
+      "duration": "3",
+      "language": "Spanish"
+    }
+  },
+  "GNQ-2": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/Guin%C3%A9_Equatorial",
+    "lookup": "No matching language section retrieved"
+  },
+  "ERI-1": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/%D8%A5%D8%B1%D8%AA%D8%B1%D9%8A%D8%A7",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "/ʔi.rit.ri.jaː/"
+    ]
+  },
+  "ERI-0": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/%E1%8A%A4%E1%88%AD%E1%89%B5%E1%88%AB",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "/ʔer(ɨ).tra/"
+    ],
+    "audio": {
+      "file": "assets/audio/da9e76fd1ae6023b.mp3",
+      "title": "Ertra.ogg",
+      "author": "Iloveueri",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Ertra.ogg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/3/3d/Ertra.ogg/Ertra.ogg.mp3",
+      "duration": "4",
+      "language": "Tigrinya"
+    }
+  },
+  "EST-0": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/Eesti",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "/ˈeˑsti/",
+      "[ˈeˑstʲi]"
+    ],
+    "audio": {
+      "file": "assets/audio/e3637e79f670ab72.mp3",
+      "title": "Et-Eesti-female.oga",
+      "author": "Eesti Keele Instituut",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Et-Eesti-female.oga",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/9/9d/Et-Eesti-female.oga/Et-Eesti-female.oga.mp3",
+      "duration": "2",
+      "language": "Estonian"
+    }
+  },
+  "SWZ-0": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/eSwatini",
+    "lookup": "Language section retrieved"
+  },
+  "FJI-0": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/Viti",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "[ˈβitʃi]"
+    ]
+  },
+  "ETH-0": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/%E1%8A%A2%E1%89%B5%E1%8B%AE%E1%8C%B5%E1%8B%AB",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "/(ʔ)itˈjopʼja/",
+      "/(ʔ)itˈjopʼːja/"
+    ],
+    "audio": {
+      "file": "assets/audio/3b06b16c289c6a06.mp3",
+      "title": "Ityopya.ogg",
+      "author": "Vob08",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Ityopya.ogg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/8/86/Ityopya.ogg/Ityopya.ogg.mp3",
+      "duration": "3",
+      "language": "Amharic"
+    }
+  },
+  "FJI-2": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/%E0%A4%AB%E0%A4%BC%E0%A4%BF%E0%A4%9C%E0%A5%80",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "/fɪ.d͡ʒiː/",
+      "/pʰɪ.d͡ʒiː/"
+    ]
+  },
+  "FJI-1": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/Fiji",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "[ˈfit͡ʃi]",
+      "/ˈfiːdʒiː/",
+      "/fiːˈdʒiː/"
+    ],
+    "audio": {
+      "file": "assets/audio/93006a56e6f5621a.mp3",
+      "title": "LL-Q1860_(eng)-Soundguys-Fiji.wav",
+      "author": "Speaker: Soundguys Recorder: Soundguys",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "source": "https://commons.wikimedia.org/wiki/File:LL-Q1860_%28eng%29-Soundguys-Fiji.wav",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/6/6e/LL-Q1860_%28eng%29-Soundguys-Fiji.wav/LL-Q1860_%28eng%29-Soundguys-Fiji.wav.mp3",
+      "duration": "1",
+      "language": "English"
+    }
+  },
+  "FIN-1": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/Finland",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "/ˈfɪnˌland/",
+      "[ˈfɪnːˌl̪and]",
+      "/ˈfinlɑnd/"
+    ],
+    "audio": {
+      "file": "assets/audio/a5953cd9e1664262.mp3",
+      "title": "Sv-Finland.ogg",
+      "author": "M. Kihlstedt, N. Vion",
+      "license": "CC BY 2.0 fr",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/fr/deed.en",
+      "source": "https://commons.wikimedia.org/wiki/File:Sv-Finland.ogg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/b/b6/Sv-Finland.ogg/Sv-Finland.ogg.mp3",
+      "duration": "2",
+      "language": "Swedish"
+    }
+  },
+  "FRA-0": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/France",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "/fʁɑ̃s/",
+      "/fʁãⁿsə/",
+      "/fʁãs/"
+    ],
+    "audio": {
+      "file": "assets/audio/5b5c8d45617f70e7.mp3",
+      "title": "Fr-France.ogg",
+      "author": "ZoliveR",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "source": "https://commons.wikimedia.org/wiki/File:Fr-France.ogg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/a/a3/Fr-France.ogg/Fr-France.ogg.mp3",
+      "duration": "1",
+      "language": "French"
+    }
+  },
+  "FIN-0": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/Suomi",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "/ˈsuo̯mi/",
+      "[ˈs̠uo̞̯mi]"
+    ],
+    "audio": {
+      "file": "assets/audio/8dd146b16449e579.mp3",
+      "title": "Fi-suomi.ogg",
+      "author": "No machine-readable author provided. Karmosin~commonswiki assumed (based on copyright claims).",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "source": "https://commons.wikimedia.org/wiki/File:Fi-suomi.ogg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/d/d7/Fi-suomi.ogg/Fi-suomi.ogg.mp3",
+      "duration": "1",
+      "language": "Finnish",
+      "speakerNote": "Source identifies a non-native speaker."
+    }
+  },
+  "GAB-0": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/Gabon",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "/ɡa.bɔ̃/"
+    ],
+    "audio": {
+      "file": "assets/audio/735fcb95ad26ee40.mp3",
+      "title": "Fr-Gabon.oga",
+      "author": "Clément Bucco-Lechat",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Fr-Gabon.oga",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/b/ba/Fr-Gabon.oga/Fr-Gabon.oga.mp3",
+      "duration": "1",
+      "language": "French"
+    }
+  },
+  "GMB-0": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/The_Gambia",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "/ˈɡæm.bi.ə/"
+    ],
+    "audio": {
+      "file": "assets/audio/2f403675b9b14edd.mp3",
+      "title": "En-us-Gambia.ogg",
+      "author": "EncycloPetey",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:En-us-Gambia.ogg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/4/41/En-us-Gambia.ogg/En-us-Gambia.ogg.mp3",
+      "duration": "2",
+      "language": "English"
+    }
+  },
+  "DEU-0": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/Deutschland",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "[ˈdɔʏ̯t͡ʃlant]"
+    ],
+    "audio": {
+      "file": "assets/audio/5798a542a06ea20b.mp3",
+      "title": "De-Deutschland.ogg",
+      "author": "joni",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "source": "https://commons.wikimedia.org/wiki/File:De-Deutschland.ogg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/8/8c/De-Deutschland.ogg/De-Deutschland.ogg.mp3",
+      "duration": "1",
+      "language": "German"
+    }
+  },
+  "GEO-0": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/%E1%83%A1%E1%83%90%E1%83%A5%E1%83%90%E1%83%A0%E1%83%97%E1%83%95%E1%83%94%E1%83%9A%E1%83%9D",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "[säkʰäɾtʰʷe̞ɫo̞]"
+    ],
+    "audio": {
+      "file": "assets/audio/e61b91fea59ced0e.mp3",
+      "title": "Sakartvelo.ogg",
+      "author": "Kober",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "source": "https://commons.wikimedia.org/wiki/File:Sakartvelo.ogg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/2/2a/Sakartvelo.ogg/Sakartvelo.ogg.mp3",
+      "duration": "3",
+      "language": "Georgian"
+    }
+  },
+  "GHA-0": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/Ghana",
+    "lookup": "No matching language section retrieved"
+  },
+  "GRC-0": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/%CE%95%CE%BB%CE%BB%CE%AC%CE%B4%CE%B1",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "/eˈlaða/"
+    ],
+    "audio": {
+      "file": "assets/audio/ea2f9d1fcc91368e.mp3",
+      "title": "Ellada.ogg",
+      "author": "Poromenos",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Ellada.ogg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/1/1c/Ellada.ogg/Ellada.ogg.mp3",
+      "duration": "1",
+      "language": "Greek"
+    }
+  },
+  "GRD-0": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/Grenada",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "/ɡɹəˈneɪdə/"
+    ],
+    "audio": {
+      "file": "assets/audio/90c29eee86739efa.mp3",
+      "title": "en-us-Grenada.ogg",
+      "author": "EncycloPetey",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:en-us-Grenada.ogg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/c/c0/En-us-Grenada.ogg/En-us-Grenada.ogg.mp3",
+      "duration": "2",
+      "language": "English"
+    }
+  },
+  "GTM-0": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/Guatemala",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "/ɡwateˈmala/",
+      "[ɡwa.t̪eˈma.la]"
+    ],
+    "audio": {
+      "file": "assets/audio/df14a8080fbb0251.mp3",
+      "title": "LL-Q1321_(spa)-Rodelar-Guatemala.wav",
+      "author": "Speaker: Rodelar Recorder: Rodelar",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:LL-Q1321_%28spa%29-Rodelar-Guatemala.wav",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/7/73/LL-Q1321_%28spa%29-Rodelar-Guatemala.wav/LL-Q1321_%28spa%29-Rodelar-Guatemala.wav.mp3",
+      "duration": "2",
+      "language": "Spanish"
+    }
+  },
+  "GNB-0": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/Guin%C3%A9-Bissau",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "/ɡiˌnɛ.biˈsaw/",
+      "[ɡiˌnɛ.biˈsaʊ̯]",
+      "[ɡiˌnɛ.βiˈsaw]"
+    ]
+  },
+  "GIN-0": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/Guin%C3%A9e",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "/ɡi.ne/"
+    ],
+    "audio": {
+      "file": "assets/audio/71c2ccc6bf4af5c4.mp3",
+      "title": "Fr-Guinée.oga",
+      "author": "Clément Bucco-Lechat",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Fr-Guin%C3%A9e.oga",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/9/91/Fr-Guin%C3%A9e.oga/Fr-Guin%C3%A9e.oga.mp3",
+      "duration": "1",
+      "language": "French"
+    }
+  },
+  "GUY-0": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/Guyana",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "/ɡaɪˈɑː.nə/",
+      "/ɡaɪˈæn.ə/"
+    ],
+    "audio": {
+      "file": "assets/audio/ca709af15b7de998.mp3",
+      "title": "LL-Q1860_(eng)-Soundguys-Guyana.wav",
+      "author": "Speaker: Soundguys Recorder: Soundguys",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "source": "https://commons.wikimedia.org/wiki/File:LL-Q1860_%28eng%29-Soundguys-Guyana.wav",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/8/82/LL-Q1860_%28eng%29-Soundguys-Guyana.wav/LL-Q1860_%28eng%29-Soundguys-Guyana.wav.mp3",
+      "duration": "2",
+      "language": "English"
+    }
+  },
+  "HTI-0": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/Ayiti",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "/a.ji.ti/"
+    ],
+    "audio": {
+      "file": "assets/audio/2ccfb04164e9b91f.mp3",
+      "title": "LL-Q33491_(hat)-AFRO-Haïti-Ayiti.wav",
+      "author": "Speaker: AFRO-Haïti Recorder: AFRO-Haïti",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:LL-Q33491_%28hat%29-AFRO-Ha%C3%AFti-Ayiti.wav",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/5/5d/LL-Q33491_%28hat%29-AFRO-Ha%C3%AFti-Ayiti.wav/LL-Q33491_%28hat%29-AFRO-Ha%C3%AFti-Ayiti.wav.mp3",
+      "duration": "2",
+      "language": "Haitian Creole"
+    }
+  },
+  "HTI-1": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/Ha%C3%AFti",
+    "lookup": "No matching language section retrieved"
+  },
+  "HND-0": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/Honduras",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "/onˈduɾas/",
+      "[õn̪ˈd̪u.ɾas]"
+    ],
+    "audio": {
+      "file": "assets/audio/e87f670460ff1ad1.mp3",
+      "title": "LL-Q1321_(spa)-Rodelar-Honduras.wav",
+      "author": "Speaker: Rodelar Recorder: Rodelar",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:LL-Q1321_%28spa%29-Rodelar-Honduras.wav",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/3/3e/LL-Q1321_%28spa%29-Rodelar-Honduras.wav/LL-Q1321_%28spa%29-Rodelar-Honduras.wav.mp3",
+      "duration": "2",
+      "language": "Spanish"
+    }
+  },
+  "ISL-0": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/%C3%8Dsland",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "[ˈistlant]",
+      "[ˈiːs.lant]",
+      "[ˈiːstlant]"
+    ],
+    "audio": {
+      "file": "assets/audio/13abcb353f07e59c.mp3",
+      "title": "Is-Ísland.ogg",
+      "author": "Þjarkur",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "source": "https://commons.wikimedia.org/wiki/File:Is-%C3%8Dsland.ogg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/9/9f/Is-%C3%8Dsland.ogg/Is-%C3%8Dsland.ogg.mp3",
+      "duration": "2",
+      "language": "Icelandic"
+    }
+  },
+  "HUN-0": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/Magyarorsz%C3%A1g",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "[ˈmɒɟɒrorsaːɡ]"
+    ],
+    "audio": {
+      "file": "assets/audio/3b083ae2f38cc483.mp3",
+      "title": "Hu-Magyarország.ogg",
+      "author": "No machine-readable author provided. Dubaduba~commonswiki assumed (based on copyright claims).",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "source": "https://commons.wikimedia.org/wiki/File:Hu-Magyarorsz%C3%A1g.ogg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/2/20/Hu-Magyarorsz%C3%A1g.ogg/Hu-Magyarorsz%C3%A1g.ogg.mp3",
+      "duration": "3",
+      "language": "Hungarian"
+    }
+  },
+  "IND-1": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/India",
+    "lookup": "No matching language section retrieved"
+  },
+  "IND-0": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "/bʱɑː.ɾət̪/",
+      "[bʱäː.ɾɐt̪]"
+    ],
+    "audio": {
+      "file": "assets/audio/f2255ed46d612d55.mp3",
+      "title": "hi-भारत.oga",
+      "author": "Somesh Tripathi",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:hi-%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4.oga",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/0/02/Hi-%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4.oga/Hi-%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4.oga.mp3",
+      "duration": "4",
+      "language": "Hindi"
+    }
+  },
+  "IND-3": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/%E0%AE%AA%E0%AE%BE%E0%AE%B0%E0%AE%A4%E0%AE%AE%E0%AF%8D",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "/bɑːɾɐd̪ɐm/",
+      "[bäːɾɐd̪ɐm]",
+      "/pɑːɾɐd̪ɐm/"
+    ],
+    "audio": {
+      "file": "assets/audio/4c4070359c4767f6.mp3",
+      "title": "Ta-பாரதம்.ogg",
+      "author": "Booradleyp",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Ta-%E0%AE%AA%E0%AE%BE%E0%AE%B0%E0%AE%A4%E0%AE%AE%E0%AF%8D.ogg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/c/c7/Ta-%E0%AE%AA%E0%AE%BE%E0%AE%B0%E0%AE%A4%E0%AE%AE%E0%AF%8D.ogg/Ta-%E0%AE%AA%E0%AE%BE%E0%AE%B0%E0%AE%A4%E0%AE%AE%E0%AF%8D.ogg.mp3",
+      "duration": "2",
+      "language": "Tamil"
+    }
+  },
+  "IDN-0": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/Indonesia",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "/in.ˈdo.nɛ.sɪ.(j)a/",
+      "/-sja/",
+      "/-ne-/"
+    ]
+  },
+  "IND-2": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/%E0%A6%AD%E0%A6%BE%E0%A6%B0%E0%A6%A4",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "/bʱaɾot̪/",
+      "[ˈbʱaɾot̪]",
+      "[ˈvaɾot̪]"
+    ],
+    "audioOmitted": "Could not retrieve author/license metadata"
+  },
+  "IRQ-0": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "/al.ʕi.raːq/"
+    ]
+  },
+  "IRQ-1": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/%D8%B9%DB%8E%D8%B1%D8%A7%D9%82",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "/ʕe̞ːɾaːq/"
+    ]
+  },
+  "IRN-0": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/%D8%A7%DB%8C%D8%B1%D8%A7%D9%86",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "/ʔeː.ˈraːn/",
+      "/ʔiː.ˈraːn/",
+      "[ʔeː.ɾɑ́ːn]"
+    ],
+    "audioOmitted": "Could not retrieve author/license metadata"
+  },
+  "IRL-1": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/Ireland",
+    "lookup": "No matching language section retrieved"
+  },
+  "IRL-0": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/%C3%89ire",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "/ˈeːɾʲə/"
+    ],
+    "audioOmitted": "Could not retrieve author/license metadata"
+  },
+  "ISR-1": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "/ʔis.raː.ʔiːl/"
+    ]
+  },
+  "ITA-0": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/Italia",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "/iˈta.lja/"
+    ],
+    "audio": {
+      "file": "assets/audio/617a9f490a94a5ae.mp3",
+      "title": "it-Italia.ogg",
+      "author": "Salento81",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:it-Italia.ogg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/1/1d/It-Italia.ogg/It-Italia.ogg.mp3",
+      "duration": "3",
+      "language": "Italian"
+    }
+  },
+  "ISR-0": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/%D7%99%D7%A9%D7%A8%D7%90%D7%9C",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "/jiɬ.raːˈʔil/",
+      "/jiʃ.rɒ.el/ [jiʃˈrɒː.ʔəl]",
+      "/jis.rɔːˈʔeːl/ [jis.rˤɔːˈʔeːel]"
+    ],
+    "audio": {
+      "file": "assets/audio/0510f8ee0db685c7.mp3",
+      "title": "LL-Q9288_(heb)-Buffer-ישראל.wav",
+      "author": "Speaker: Buffer Recorder: Buffer",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:LL-Q9288_%28heb%29-Buffer-%D7%99%D7%A9%D7%A8%D7%90%D7%9C.wav",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/6/6d/LL-Q9288_%28heb%29-Buffer-%D7%99%D7%A9%D7%A8%D7%90%D7%9C.wav/LL-Q9288_%28heb%29-Buffer-%D7%99%D7%A9%D7%A8%D7%90%D7%9C.wav.mp3",
+      "duration": "2",
+      "language": "Hebrew"
+    }
+  },
+  "JPN-0": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/%E6%97%A5%E6%9C%AC",
+    "lookup": "Language section retrieved",
+    "audio": {
+      "file": "assets/audio/54ad4d90dfc7f7ee.mp3",
+      "title": "ja-nihon(日本).ogg",
+      "author": "T AKASUGI Shinji",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "source": "https://commons.wikimedia.org/wiki/File:ja-nihon%28%E6%97%A5%E6%9C%AC%29.ogg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/9/92/Ja-nihon%28%E6%97%A5%E6%9C%AC%29.ogg/Ja-nihon%28%E6%97%A5%E6%9C%AC%29.ogg.mp3",
+      "duration": "2",
+      "language": "Japanese"
+    }
+  },
+  "JAM-0": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/Jamaica",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "/d͡ʒəˈmeɪ.kə/",
+      "/d͡ʒəˈmæɪ.kə/",
+      "/d͡ʒəˈme.kə/"
+    ],
+    "audioOmitted": "Could not retrieve author/license metadata"
+  },
+  "JPN-1": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/%E6%97%A5%E6%9C%AC",
+    "lookup": "Language section retrieved",
+    "audio": {
+      "file": "assets/audio/51541780f5e3d5e3.mp3",
+      "title": "ja-nippon(日本).ogg",
+      "author": "TAKASUGI Shinji",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "source": "https://commons.wikimedia.org/wiki/File:ja-nippon%28%E6%97%A5%E6%9C%AC%29.ogg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/d/db/Ja-nippon%28%E6%97%A5%E6%9C%AC%29.ogg/Ja-nippon%28%E6%97%A5%E6%9C%AC%29.ogg.mp3",
+      "duration": "1",
+      "language": "Japanese"
+    }
+  },
+  "JOR-0": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/%D8%A7%D9%84%D8%A3%D8%B1%D8%AF%D9%86",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "/j/",
+      "/ʔ/",
+      "/ʕ/"
+    ]
+  },
+  "KAZ-0": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/%D2%9A%D0%B0%D0%B7%D0%B0%D2%9B%D1%81%D1%82%D0%B0%D0%BD",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "/qɑzɑqˈstɑn/",
+      "[qʰɑ̝z̥ɑ̝qʰ(ə̝)stʰɑ̝́n]"
+    ],
+    "audioOmitted": "Could not retrieve author/license metadata"
+  },
+  "KEN-0": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/Kenya",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "/ˈkɛ.ɲɑ/"
+    ],
+    "audioOmitted": "Could not retrieve author/license metadata"
+  },
+  "KAZ-1": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "[kəzɐxˈstan]",
+      "[kəzaxˈstan]",
+      "[kɨzaxˈstan]"
+    ],
+    "audioOmitted": "Could not retrieve author/license metadata"
+  },
+  "KIR-0": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/Kiribati",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "/ki.ɾi.bæ.si/"
+    ]
+  },
+  "UNK-0": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/Kosova",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "/koˈso.va/",
+      "[kɔˈsoː.va]"
+    ]
+  },
+  "KWT-0": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/%D8%A7%D9%84%D9%83%D9%88%D9%8A%D8%AA",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "/al.ku.wajt/"
+    ]
+  },
+  "UNK-1": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/%D0%9A%D0%BE%D1%81%D0%BE%D0%B2%D0%BE",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "/kôsoʋo/"
+    ]
+  },
+  "KGZ-0": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/%D0%9A%D1%8B%D1%80%D0%B3%D1%8B%D0%B7%D1%81%D1%82%D0%B0%D0%BD",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "/qɯɾ.ʁɯzˈstɑn/",
+      "[qɯ̞ɾ.ʁɯ̞s(ː)tɑ́n]"
+    ],
+    "audio": {
+      "file": "assets/audio/d79535cc7f982f5c.mp3",
+      "title": "LL-Q9255_(kir)-Almanbet_Janışev-Кыргызстан.wav",
+      "author": "Speaker: Almanbet Janışev Recorder: Almanbet Janışev",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "source": "https://commons.wikimedia.org/wiki/File:LL-Q9255_%28kir%29-Almanbet_Jan%C4%B1%C5%9Fev-%D0%9A%D1%8B%D1%80%D0%B3%D1%8B%D0%B7%D1%81%D1%82%D0%B0%D0%BD.wav",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/1/15/LL-Q9255_%28kir%29-Almanbet_Jan%C4%B1%C5%9Fev-%D0%9A%D1%8B%D1%80%D0%B3%D1%8B%D0%B7%D1%81%D1%82%D0%B0%D0%BD.wav/LL-Q9255_%28kir%29-Almanbet_Jan%C4%B1%C5%9Fev-%D0%9A%D1%8B%D1%80%D0%B3%D1%8B%D0%B7%D1%81%D1%82%D0%B0%D0%BD.wav.mp3",
+      "duration": "1",
+      "language": "Kyrgyz"
+    }
+  },
+  "KGZ-1": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/%D0%9A%D1%8B%D1%80%D0%B3%D1%8B%D0%B7%D1%81%D1%82%D0%B0%D0%BD",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "[kɨrɡɨˈstan]"
+    ],
+    "audio": {
+      "file": "assets/audio/2c725bd5c5adbf5c.mp3",
+      "title": "Ru-Кыргызстан.ogg",
+      "author": "Ivnadur",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Ru-%D0%9A%D1%8B%D1%80%D0%B3%D1%8B%D0%B7%D1%81%D1%82%D0%B0%D0%BD.ogg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/f/fc/Ru-%D0%9A%D1%8B%D1%80%D0%B3%D1%8B%D0%B7%D1%81%D1%82%D0%B0%D0%BD.ogg/Ru-%D0%9A%D1%8B%D1%80%D0%B3%D1%8B%D0%B7%D1%81%D1%82%D0%B0%D0%BD.ogg.mp3",
+      "duration": "1",
+      "language": "Russian"
+    }
+  },
+  "LAO-0": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/%E0%BA%A5%E0%BA%B2%E0%BA%A7",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "[laːw˧˥]",
+      "[laːw˩˨]",
+      "[law˧˥]"
+    ],
+    "audioOmitted": "Could not retrieve author/license metadata"
+  },
+  "LVA-0": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/Latvija",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "[latvija]"
+    ],
+    "audio": {
+      "file": "assets/audio/7680e99b04a49119.mp3",
+      "title": "Lv-Latvija.ogg",
+      "author": "No machine-readable author provided. Arose assumed (based on copyright claims).",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "source": "https://commons.wikimedia.org/wiki/File:Lv-Latvija.ogg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/e/ef/Lv-Latvija.ogg/Lv-Latvija.ogg.mp3",
+      "duration": "1",
+      "language": "Latvian"
+    }
+  },
+  "LBN-0": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/%D9%84%D8%A8%D9%86%D8%A7%D9%86",
+    "lookup": "No matching language section retrieved"
+  },
+  "LSO-0": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/Lesotho",
+    "lookup": "No matching language section retrieved"
+  },
+  "LBR-0": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/Liberia",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "/laɪˈbɪə̯.ri.ə/",
+      "/laɪˈbɪɹ.i.ə/"
+    ],
+    "audioOmitted": "Could not retrieve author/license metadata"
+  },
+  "LBY-0": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/%D9%84%D9%8A%D8%A8%D9%8A%D8%A7",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "/liː.bi.jaː/"
+    ]
+  },
+  "LIE-0": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/Liechtenstein",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "/ˈlɪç.tənˌʃtaɪ̯n/",
+      "/ˈliːç.tənˌʃtaɪ̯n/"
+    ],
+    "audio": {
+      "file": "assets/audio/3ec06206b29a8b8d.mp3",
+      "title": "De-Liechtenstein.ogg",
+      "author": "Hedwig von Ebbel",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:De-Liechtenstein.ogg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/a/ae/De-Liechtenstein.ogg/De-Liechtenstein.ogg.mp3",
+      "duration": "2",
+      "language": "German"
+    }
+  },
+  "LTU-0": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/Lietuva",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "[lʲiɛtʊˈʋɐ]"
+    ]
+  },
+  "LUX-0": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/L%C3%ABtzebuerg",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "[ˈlə.t͡sə.buəɕ]",
+      "[ˈlətsəbuəɐ̯ç]"
+    ]
+  },
+  "LUX-2": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/Luxemburg",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "/ˈlʊksəmbʊʁk/",
+      "[ˈlʊksm̩bʊʁkʰ]"
+    ],
+    "audio": {
+      "file": "assets/audio/65dd5e578d2b888d.mp3",
+      "title": "De-Luxemburg.ogg",
+      "author": "Jeuwre",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:De-Luxemburg.ogg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/1/10/De-Luxemburg.ogg/De-Luxemburg.ogg.mp3",
+      "duration": "2",
+      "language": "German"
+    }
+  },
+  "LUX-1": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/Luxembourg",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "/lyk.sɑ̃.buʁ/"
+    ],
+    "audio": {
+      "file": "assets/audio/e29391ecadb3ae82.mp3",
+      "title": "Fr-Luxembourg.wav",
+      "author": "Speaker: 0x010C Recorder: 0x010C",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Fr-Luxembourg.wav",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/f/fb/Fr-Luxembourg.wav/Fr-Luxembourg.wav.mp3",
+      "duration": "2",
+      "language": "French"
+    }
+  },
+  "MDG-0": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/Madagasikara",
+    "lookup": "No matching language section retrieved"
+  },
+  "MWI-0": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/Mala%C5%B5i",
+    "lookup": "No matching language section retrieved"
+  },
+  "MDG-1": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/Madagascar",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "/ma.da.ɡas.kaʁ/"
+    ],
+    "audio": {
+      "file": "assets/audio/e2622d4a73c606bb.mp3",
+      "title": "LL-Q150_(fra)-GrandCelinien-Madagascar.wav",
+      "author": "Speaker: GrandCelinien Recorder: GrandCelinien",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_%28fra%29-GrandCelinien-Madagascar.wav",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/8/80/LL-Q150_%28fra%29-GrandCelinien-Madagascar.wav/LL-Q150_%28fra%29-GrandCelinien-Madagascar.wav.mp3",
+      "duration": "2",
+      "language": "French"
+    }
+  },
+  "MYS-0": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/Malaysia",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "[mə.le.si.ə]",
+      "[mə.le.ʃə]",
+      "[ma.le.si.ə]"
+    ],
+    "audioOmitted": "Could not retrieve author/license metadata"
+  },
+  "MDV-0": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/%DE%8B%DE%A8%DE%88%DE%AC%DE%80%DE%A8%DE%83%DE%A7%DE%87%DE%B0%DE%96%DE%AC",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "/d̪i.ʋe.hi.raːʔ.dʒe/",
+      "[d̪i.ʋe.hi.ɾaːd̚.dʒe]"
+    ]
+  },
+  "MLI-0": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/Mali",
+    "lookup": "No matching language section retrieved"
+  },
+  "MLT-0": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/Malta",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "/ˈmaːl.ta/"
+    ]
+  },
+  "MHL-0": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/Aor%C5%8Dkin_%E1%B9%82aje%E1%B8%B7",
+    "lookup": "No matching language section retrieved"
+  },
+  "MLT-1": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/Malta",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "/ˈmɒl.tə/",
+      "/ˈmɔːl.tə/",
+      "/ˈmɑl.tə/"
+    ],
+    "audio": {
+      "file": "assets/audio/ba240403aca64e43.mp3",
+      "title": "LL-Q1860_(eng)-Soundguys-Malta.wav",
+      "author": "Speaker: Soundguys Recorder: Soundguys",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "source": "https://commons.wikimedia.org/wiki/File:LL-Q1860_%28eng%29-Soundguys-Malta.wav",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/9/92/LL-Q1860_%28eng%29-Soundguys-Malta.wav/LL-Q1860_%28eng%29-Soundguys-Malta.wav.mp3",
+      "duration": "2",
+      "language": "English"
+    }
+  },
+  "MRT-0": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/%D9%85%D9%88%D8%B1%D9%8A%D8%AA%D8%A7%D9%86%D9%8A%D8%A7",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "/muː.riː.taː.ni.jaː/"
+    ]
+  },
+  "MHL-1": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/Marshall_Islands",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "/ˈmaːʃəl ˈaɪləndz/",
+      "/ˈmɑː.ʃəl ˈaɪ.ləndz/",
+      "/ˈmɑɹ.ʃəl ˈaɪ.ləndz/"
+    ],
+    "audioOmitted": "Could not retrieve author/license metadata"
+  },
+  "MUS-1": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/Maurice",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "/mɔ.ʁis/",
+      "/mo.ʁis/"
+    ],
+    "audio": {
+      "file": "assets/audio/bdb6ef9a3c252edd.mp3",
+      "title": "Fr-Maurice.ogg",
+      "author": "Clément Bucco-Lechat",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Fr-Maurice.ogg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/1/10/Fr-Maurice.ogg/Fr-Maurice.ogg.mp3",
+      "duration": "2",
+      "language": "French"
+    }
+  },
+  "MUS-0": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/Moris",
+    "lookup": "Language section retrieved"
+  },
+  "MUS-2": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/Mauritius",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "/məˈɹɪʃəs/",
+      "/məˈɹɪʃiəs/",
+      "/mɔːˈɹɪʃəs/"
+    ],
+    "audio": {
+      "file": "assets/audio/c129dae936de19ae.mp3",
+      "title": "En-us-Mauritius.ogg",
+      "author": "EncycloPetey",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:En-us-Mauritius.ogg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/a/a9/En-us-Mauritius.ogg/En-us-Mauritius.ogg.mp3",
+      "duration": "2",
+      "language": "English"
+    }
+  },
+  "MEX-1": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/M%C4%93xihco",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "[ʃː]",
+      "[kk]",
+      "[ʔk]"
+    ]
+  },
+  "MEX-0": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/M%C3%A9xico",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "/t͡s/",
+      "/ʃ/",
+      "/kː/"
+    ],
+    "audioOmitted": "Could not retrieve author/license metadata"
+  },
+  "FSM-0": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/Federated_States_of_Micronesia",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "/ˈfɛdəˌɹeɪtɪd ˈsteɪts əv ˌmaɪkɹəˈniːʒə/"
+    ],
+    "audio": {
+      "file": "assets/audio/e84c0d99c245fc80.mp3",
+      "title": "LL-Q1860_(eng)-Soundguys-Federated_States_of_Micronesia.wav",
+      "author": "Speaker: Soundguys Recorder: Soundguys",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "source": "https://commons.wikimedia.org/wiki/File:LL-Q1860_%28eng%29-Soundguys-Federated_States_of_Micronesia.wav",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/4/4a/LL-Q1860_%28eng%29-Soundguys-Federated_States_of_Micronesia.wav/LL-Q1860_%28eng%29-Soundguys-Federated_States_of_Micronesia.wav.mp3",
+      "duration": "3",
+      "language": "English"
+    }
+  },
+  "MDA-0": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/Moldova",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "/mol.ˈdo.va/"
+    ],
+    "audioOmitted": "Could not retrieve author/license metadata"
+  },
+  "MNG-0": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/%D0%9C%D0%BE%D0%BD%D0%B3%D0%BE%D0%BB_%D0%A3%D0%BB%D1%81",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "[mɔ̙ɴ.ɢʊ̙ɮ‿ʊ̙ɮs]"
+    ],
+    "audio": {
+      "file": "assets/audio/40ea8df40849e32c.mp3",
+      "title": "LL-Q9246_(mon)-Swoopless-Монгол_Улс.wav",
+      "author": "Speaker: Swoopless Recorder: Swoopless",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "source": "https://commons.wikimedia.org/wiki/File:LL-Q9246_%28mon%29-Swoopless-%D0%9C%D0%BE%D0%BD%D0%B3%D0%BE%D0%BB_%D0%A3%D0%BB%D1%81.wav",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/4/45/LL-Q9246_%28mon%29-Swoopless-%D0%9C%D0%BE%D0%BD%D0%B3%D0%BE%D0%BB_%D0%A3%D0%BB%D1%81.wav/LL-Q9246_%28mon%29-Swoopless-%D0%9C%D0%BE%D0%BD%D0%B3%D0%BE%D0%BB_%D0%A3%D0%BB%D1%81.wav.mp3",
+      "duration": "2",
+      "language": "Mongolian"
+    }
+  },
+  "MCO-0": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/Monaco",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "/mɔ.na.ko/"
+    ],
+    "audio": {
+      "file": "assets/audio/f111082f4cf8667f.mp3",
+      "title": "LL-Q150_(fra)-GrandCelinien-Monaco.wav",
+      "author": "Speaker: GrandCelinien Recorder: GrandCelinien",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_%28fra%29-GrandCelinien-Monaco.wav",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/7/74/LL-Q150_%28fra%29-GrandCelinien-Monaco.wav/LL-Q150_%28fra%29-GrandCelinien-Monaco.wav.mp3",
+      "duration": "2",
+      "language": "French"
+    }
+  },
+  "MNE-0": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/Crna_Gora",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "/t͡sr̩̂ːnaː ɡǒra/"
+    ],
+    "audio": {
+      "file": "assets/audio/f8b2fbfef99c210a.mp3",
+      "title": "CrnaGora.ogg",
+      "author": "No machine-readable author provided. Bože pravde~commonswiki assumed (based on copyright claims).",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "source": "https://commons.wikimedia.org/wiki/File:CrnaGora.ogg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/f/f7/CrnaGora.ogg/CrnaGora.ogg.mp3",
+      "duration": "1",
+      "language": "Montenegrin"
+    }
+  },
+  "MNE-1": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/%D0%A6%D1%80%D0%BD%D0%B0_%D0%93%D0%BE%D1%80%D0%B0",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "/t͡sr̩̂ːnaː ɡǒra/"
+    ],
+    "audio": {
+      "file": "assets/audio/f8b2fbfef99c210a.mp3",
+      "title": "CrnaGora.ogg",
+      "author": "No machine-readable author provided. Bože pravde~commonswiki assumed (based on copyright claims).",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "source": "https://commons.wikimedia.org/wiki/File:CrnaGora.ogg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/f/f7/CrnaGora.ogg/CrnaGora.ogg.mp3",
+      "duration": "1",
+      "language": "Montenegrin (Cyrillic)"
+    }
+  },
+  "MAR-0": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "/al.maɣ.rib/"
+    ],
+    "audio": {
+      "file": "assets/audio/8c3e01d8ccd151e0.mp3",
+      "title": "Pronunciation_of_Morocco_in_Arabic.ogg",
+      "author": "NekroixCH",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "source": "https://commons.wikimedia.org/wiki/File:Pronunciation_of_Morocco_in_Arabic.ogg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/3/3d/Pronunciation_of_Morocco_in_Arabic.ogg/Pronunciation_of_Morocco_in_Arabic.ogg.mp3",
+      "duration": "1",
+      "language": "Arabic"
+    }
+  },
+  "MOZ-0": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/Mo%C3%A7ambique",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "/mo.sɐ̃ˈbi.ki/",
+      "/mu.sɐ̃ˈbi.kɨ/"
+    ]
+  },
+  "MAR-1": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/%E2%B5%8D%E2%B5%8E%E2%B5%96%E2%B5%94%E2%B5%89%E2%B4%B1",
+    "lookup": "No matching language section retrieved"
+  },
+  "MMR-0": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/%E1%80%99%E1%80%BC%E1%80%94%E1%80%BA%E1%80%99%E1%80%AC",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "/mjàɴmà/, /mjəmà/"
+    ],
+    "audio": {
+      "file": "assets/audio/5ea9384a7716cf69.mp3",
+      "title": "LL-Q9228_(mya)-Cepyita-မြန်မာ.wav",
+      "author": "Speaker: Cepyita Recorder: Cepyita",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:LL-Q9228_%28mya%29-Cepyita-%E1%80%99%E1%80%BC%E1%80%94%E1%80%BA%E1%80%99%E1%80%AC.wav",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/9/91/LL-Q9228_%28mya%29-Cepyita-%E1%80%99%E1%80%BC%E1%80%94%E1%80%BA%E1%80%99%E1%80%AC.wav/LL-Q9228_%28mya%29-Cepyita-%E1%80%99%E1%80%BC%E1%80%94%E1%80%BA%E1%80%99%E1%80%AC.wav.mp3",
+      "duration": "2",
+      "language": "Burmese"
+    }
+  },
+  "NAM-0": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/Namibia",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "/nəˈmɪbi.ə/",
+      "/nəˈmɪbijə/",
+      "/nəˈmɪbe.ə/"
+    ],
+    "audio": {
+      "file": "assets/audio/4a479ccc4f398da4.mp3",
+      "title": "En-ca-Namibia.oga",
+      "author": "K6ka",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "source": "https://commons.wikimedia.org/wiki/File:En-ca-Namibia.oga",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/3/3e/En-ca-Namibia.oga/En-ca-Namibia.oga.mp3",
+      "duration": "2",
+      "language": "English"
+    }
+  },
+  "NAM-2": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/Namibia",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "/naˈmiːbia/"
+    ],
+    "audio": {
+      "file": "assets/audio/066a8e85052e5b3f.mp3",
+      "title": "De-Namibia.ogg",
+      "author": "Jeuwre",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:De-Namibia.ogg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/a/a4/De-Namibia.ogg/De-Namibia.ogg.mp3",
+      "duration": "2",
+      "language": "German"
+    }
+  },
+  "NAM-1": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/Namibi%C3%AB",
+    "lookup": "Language section retrieved",
+    "audioOmitted": "Could not retrieve author/license metadata"
+  },
+  "NRU-0": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/Naoero",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "/ˈnao̯ero/"
+    ]
+  },
+  "NRU-1": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/Nauru",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "/ˈnaʊru/",
+      "/nəˈru/",
+      "/ˈnaːruː/"
+    ],
+    "audio": {
+      "file": "assets/audio/9ffcd3aa36503c92.mp3",
+      "title": "LL-Q1860_(eng)-Soundguys-Nauru.wav",
+      "author": "Speaker: Soundguys Recorder: Soundguys",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "source": "https://commons.wikimedia.org/wiki/File:LL-Q1860_%28eng%29-Soundguys-Nauru.wav",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/4/4e/LL-Q1860_%28eng%29-Soundguys-Nauru.wav/LL-Q1860_%28eng%29-Soundguys-Nauru.wav.mp3",
+      "duration": "2",
+      "language": "English"
+    }
+  },
+  "NPL-0": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/%E0%A4%A8%E0%A5%87%E0%A4%AA%E0%A4%BE%E0%A4%B2",
+    "lookup": "No matching language section retrieved"
+  },
+  "NLD-1": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/Nederl%C3%A2n",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "/ˈnedərlɔ̃ːn/"
+    ]
+  },
+  "NZL-0": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/Aotearoa",
+    "lookup": "No matching language section retrieved"
+  },
+  "NLD-0": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/Nederland",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "/ˈneː.dərˌlɑnt/"
+    ],
+    "audio": {
+      "file": "assets/audio/60bd8854302f0706.mp3",
+      "title": "Nl-Nederland.ogg",
+      "author": "GerardM",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "source": "https://commons.wikimedia.org/wiki/File:Nl-Nederland.ogg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/0/0a/Nl-Nederland.ogg/Nl-Nederland.ogg.mp3",
+      "duration": "2",
+      "language": "Dutch"
+    }
+  },
+  "NIC-0": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/Nicaragua",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "/nikaˈɾaɡwa/",
+      "[ni.kaˈɾa.ɣ̞wa]"
+    ],
+    "audioOmitted": "Could not retrieve author/license metadata"
+  },
+  "NZL-1": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/New_Zealand",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "/njʉː ˈzɪələnd/",
+      "/- ˈziː-/",
+      "[njʉ ˈzɪəɫənd]"
+    ],
+    "audioOmitted": "Could not retrieve author/license metadata"
+  },
+  "NER-0": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/Nijar",
+    "lookup": "No matching language section retrieved"
+  },
+  "NER-1": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/Niger",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "/ni.ʒɛʁ/"
+    ],
+    "audio": {
+      "file": "assets/audio/3a6962bb768be68d.mp3",
+      "title": "Fr-Niger.ogg",
+      "author": "Clément Bucco-Lechat",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Fr-Niger.ogg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/5/50/Fr-Niger.ogg/Fr-Niger.ogg.mp3",
+      "duration": "1",
+      "language": "French"
+    }
+  },
+  "NGA-0": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/Nigeria",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "/naɪˈd͡ʒɪə̯ɹiə/",
+      "/naɪˈd͡ʒɪɹiə/",
+      "/naɪˈd͡ʒiːɹiə/"
+    ],
+    "audio": {
+      "file": "assets/audio/b398a1344fead8c5.mp3",
+      "title": "LL-Q1860_(eng)-Soundguys-Nigeria.wav",
+      "author": "Speaker: Soundguys Recorder: Soundguys",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "source": "https://commons.wikimedia.org/wiki/File:LL-Q1860_%28eng%29-Soundguys-Nigeria.wav",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/c/cf/LL-Q1860_%28eng%29-Soundguys-Nigeria.wav/LL-Q1860_%28eng%29-Soundguys-Nigeria.wav.mp3",
+      "duration": "2",
+      "language": "English"
+    }
+  },
+  "NGA-1": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/Nijeriya",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "/nìː.(d)ʒéː.rí.jà/",
+      "[nìː.d͡ʒéː.rɪ́.jɛ̀]"
+    ],
+    "audio": {
+      "file": "assets/audio/6615288527c7244f.mp3",
+      "title": "Ha-Nijeriya.ogg",
+      "author": "Em-mustapha",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "source": "https://commons.wikimedia.org/wiki/File:Ha-Nijeriya.ogg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/d/db/Ha-Nijeriya.ogg/Ha-Nijeriya.ogg.mp3",
+      "duration": "2",
+      "language": "Hausa"
+    }
+  },
+  "NGA-2": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/N%C3%A0%C3%ACj%C3%ADr%C3%AD%C3%A0",
+    "lookup": "No matching language section retrieved"
+  },
+  "PRK-0": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/%EC%A1%B0%EC%84%A0",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "[t͡ɕo̞sʰʌ̹n]",
+      "[ˈt͡ɕo̞(ː)sʰʌ̹n]"
+    ]
+  },
+  "MKD-0": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/%D0%A1%D0%B5%D0%B2%D0%B5%D1%80%D0%BD%D0%B0_%D0%9C%D0%B0%D0%BA%D0%B5%D0%B4%D0%BE%D0%BD%D0%B8%D1%98%D0%B0",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "[ˈsɛvɛrna makɛˈdɔni(j)a]"
+    ]
+  },
+  "MKD-1": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/Maqedonia_e_Veriut",
+    "lookup": "Language section retrieved"
+  },
+  "NOR-1": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/Noreg",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "/ˈnoːrə(ɡ)/",
+      "/ˈnorːə(ɡ)/",
+      "[ˈnɞ̞ː.ɾəɡ]"
+    ],
+    "audioOmitted": "Incomplete author/license metadata"
+  },
+  "NOR-0": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/Norge",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "/ˈnɔr.ɡə/",
+      "[ˈnɔɾ.ɡə]"
+    ],
+    "audioOmitted": "Could not retrieve author/license metadata"
+  },
+  "NOR-2": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/Norga",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "/ˈnorːka/"
+    ]
+  },
+  "OMN-0": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/%D8%B9%D9%8F%D9%85%D8%A7%D9%86",
+    "lookup": "No matching language section retrieved"
+  },
+  "PAK-0": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/%D9%BE%D8%A7%DA%A9%D8%B3%D8%AA%D8%A7%D9%86",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "/pɑː.kɪs.t̪ɑːn/"
+    ],
+    "audioOmitted": "Could not retrieve author/license metadata"
+  },
+  "PAK-1": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/Pakistan",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "/ˌpɑːkɪˈstɑːn/",
+      "/ˌpækɪˈstɑːn/",
+      "/ˌpakɪˈstɑːn/"
+    ],
+    "audio": {
+      "file": "assets/audio/6f4dae38330b3224.mp3",
+      "title": "LL-Q1860_(eng)-Soundguys-Pakistan.wav",
+      "author": "Speaker: Soundguys Recorder: Soundguys",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "source": "https://commons.wikimedia.org/wiki/File:LL-Q1860_%28eng%29-Soundguys-Pakistan.wav",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/c/c7/LL-Q1860_%28eng%29-Soundguys-Pakistan.wav/LL-Q1860_%28eng%29-Soundguys-Pakistan.wav.mp3",
+      "duration": "2",
+      "language": "English"
+    }
+  },
+  "PLW-0": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/Belau",
+    "lookup": "Language section retrieved"
+  },
+  "PLW-1": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/Palau",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "/pəˈlaʊ/"
+    ],
+    "audio": {
+      "file": "assets/audio/aab235949ea8fa3a.mp3",
+      "title": "en-us-Palau.ogg",
+      "author": "EncycloPetey",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:en-us-Palau.ogg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/e/ea/En-us-Palau.ogg/En-us-Palau.ogg.mp3",
+      "duration": "2",
+      "language": "English"
+    }
+  },
+  "PSE-0": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "/fi.las.tˤiːn/",
+      "/fi.lis.tˤiːn/",
+      "/fa.las.tˤiːn/"
+    ],
+    "audioOmitted": "Could not retrieve author/license metadata"
+  },
+  "PNG-0": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/Papua_Niugini",
+    "lookup": "Language section retrieved"
+  },
+  "PAN-0": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/Panam%C3%A1",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "/panaˈma/",
+      "[pa.naˈma]"
+    ],
+    "audio": {
+      "file": "assets/audio/4d4be998c3983cfd.mp3",
+      "title": "Es-Panamá.oga",
+      "author": "Edgefield",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Es-Panam%C3%A1.oga",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/d/df/Es-Panam%C3%A1.oga/Es-Panam%C3%A1.oga.mp3",
+      "duration": "1",
+      "language": "Spanish"
+    }
+  },
+  "PNG-1": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/Papua_New_Guinea",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "/ˈpæp.uː.ə ˌnjuː ˈɡɪn.i/",
+      "/ˈpæ.pjuː.ə ˌnjuː ˈɡɪ.ni/",
+      "/ˈpæp.u.ə ˌnu ˈɡɪn.i/"
+    ],
+    "audioOmitted": "Could not retrieve author/license metadata"
+  },
+  "PNG-2": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/Papua_Niu_Gini",
+    "lookup": "No matching language section retrieved"
+  },
+  "PRY-0": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/Paragu%C3%A1i",
+    "lookup": "No matching language section retrieved"
+  },
+  "PER-0": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/Per%C3%BA",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "/peˈɾu/",
+      "[peˈɾu]"
+    ],
+    "audio": {
+      "file": "assets/audio/1cba7c230bb76394.mp3",
+      "title": "LL-Q1321_(spa)-Rodelar-Perú.wav",
+      "author": "Speaker: Rodelar Recorder: Rodelar",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:LL-Q1321_%28spa%29-Rodelar-Per%C3%BA.wav",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/7/72/LL-Q1321_%28spa%29-Rodelar-Per%C3%BA.wav/LL-Q1321_%28spa%29-Rodelar-Per%C3%BA.wav.mp3",
+      "duration": "1",
+      "language": "Spanish"
+    }
+  },
+  "PRY-1": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/Paraguay",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "/paɾaˈɡwai/",
+      "[pa.ɾaˈɣ̞wai̯]"
+    ],
+    "audioOmitted": "Could not retrieve author/license metadata"
+  },
+  "PER-1": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/Piruw",
+    "lookup": "Language section retrieved"
+  },
+  "PHL-0": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/Pilipinas",
+    "lookup": "No matching language section retrieved"
+  },
+  "PHL-1": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/Philippines",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "/ˈfɪl.ɪ.piːnz/",
+      "/ˈfɪl.ə.piːnz/",
+      "/ˈfɪl.ɪ.paɪnz/"
+    ],
+    "audio": {
+      "file": "assets/audio/c1a6738bec3c9e71.mp3",
+      "title": "LL-Q1860_(eng)-Soundguys-Philippines.wav",
+      "author": "Speaker: Soundguys Recorder: Soundguys",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "source": "https://commons.wikimedia.org/wiki/File:LL-Q1860_%28eng%29-Soundguys-Philippines.wav",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/c/c2/LL-Q1860_%28eng%29-Soundguys-Philippines.wav/LL-Q1860_%28eng%29-Soundguys-Philippines.wav.mp3",
+      "duration": "2",
+      "language": "English"
+    }
+  },
+  "POL-0": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/Polska",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "/ˈpɔl.ska/"
+    ],
+    "audio": {
+      "file": "assets/audio/c2ff1548bfad32ec.mp3",
+      "title": "Pl-Polska.ogg",
+      "author": "Wyksztalcioch",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "source": "https://commons.wikimedia.org/wiki/File:Pl-Polska.ogg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/9/98/Pl-Polska.ogg/Pl-Polska.ogg.mp3",
+      "duration": "1",
+      "language": "Polish"
+    }
+  },
+  "PRT-0": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/Portugal",
+    "lookup": "No matching language section retrieved"
+  },
+  "QAT-0": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/%D9%82%D8%B7%D8%B1",
+    "lookup": "Language section retrieved"
+  },
+  "ROU-0": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/Rom%C3%A2nia",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "/ro.mɨˈni.a/"
+    ],
+    "audioOmitted": "Could not retrieve author/license metadata"
+  },
+  "COG-0": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/R%C3%A9publique_du_Congo",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "/ʁe.py.blik dy kɔ̃.ɡo/"
+    ],
+    "audio": {
+      "file": "assets/audio/7a2bb491a819f8fe.mp3",
+      "title": "Fr-République_du_Congo.ogg",
+      "author": "Clément Bucco-Lechat",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Fr-R%C3%A9publique_du_Congo.ogg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/c/cc/Fr-R%C3%A9publique_du_Congo.ogg/Fr-R%C3%A9publique_du_Congo.ogg.mp3",
+      "duration": "2",
+      "language": "French"
+    }
+  },
+  "RWA-0": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/Rwanda",
+    "lookup": "No matching language section retrieved"
+  },
+  "RUS-0": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "[rɐˈsʲijə]"
+    ],
+    "audioOmitted": "Could not retrieve author/license metadata"
+  },
+  "LCA-0": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/Saint_Lucia",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "/seɪnt ˈluː.ʃə/",
+      "/seɪnt ˈlu.ʃə/"
+    ],
+    "audioOmitted": "Could not retrieve author/license metadata"
+  },
+  "KNA-0": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/Saint_Kitts_and_Nevis",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "/seɪnt ˌkɪts ən ˈniː.vɪs/",
+      "/sənt ˌkɪts ən ˈniː.vɪs/"
+    ],
+    "audioOmitted": "Could not retrieve author/license metadata"
+  },
+  "WSM-0": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/S%C4%81moa",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "/saː.mo.a/"
+    ]
+  },
+  "VCT-0": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/Saint_Vincent_and_the_Grenadines",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "/seɪnt ˈvɪn(t).sənt ən ðə ˈɡɹɛ.nəˌdiːnz/",
+      "/- ˌɡɹɛ.nəˈdiːnz/"
+    ],
+    "audioOmitted": "Could not retrieve author/license metadata"
+  },
+  "SMR-0": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/San_Marino",
+    "lookup": "Language section retrieved"
+  },
+  "SEN-0": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/Senegaal",
+    "lookup": "Language section retrieved"
+  },
+  "SAU-0": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "/as.su.ʕuː.dij.ja/",
+      "/as.sa.ʕuː.dij.ja/"
+    ]
+  },
+  "SRB-0": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/%D0%A1%D1%80%D0%B1%D0%B8%D1%98%D0%B0",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "/sř̩bija/"
+    ],
+    "audioOmitted": "Could not retrieve author/license metadata"
+  },
+  "SEN-1": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/S%C3%A9n%C3%A9gal",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "/se.ne.ɡal/"
+    ],
+    "audioOmitted": "Could not retrieve author/license metadata"
+  },
+  "SYC-0": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/Sesel",
+    "lookup": "No matching language section retrieved"
+  },
+  "SYC-1": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/Seychelles",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "/se.ʃɛl/"
+    ],
+    "audioOmitted": "Could not retrieve author/license metadata"
+  },
+  "SGP-0": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/Singapura",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "/ˌsiŋəˈpurə/ [ˌsi.ŋəˈpu.rə]",
+      "/ˌsiŋaˈpura/ [ˌsi.ŋaˈpu.ra]"
+    ],
+    "audioOmitted": "Could not retrieve author/license metadata"
+  },
+  "SLE-0": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/Sierra_Leone",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "/siˌɛɹə liˈoʊn/"
+    ],
+    "audio": {
+      "file": "assets/audio/e7c12fa55e760c69.mp3",
+      "title": "En-us-Sierra_Leone.ogg",
+      "author": "EncycloPetey",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:En-us-Sierra_Leone.ogg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/d/da/En-us-Sierra_Leone.ogg/En-us-Sierra_Leone.ogg.mp3",
+      "duration": "2",
+      "language": "English"
+    }
+  },
+  "SGP-2": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/%E6%96%B0%E5%8A%A0%E5%9D%A1",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "/ɕin⁵⁵ t͡ɕi̯ä⁵⁵ pʰu̯ɔ⁵⁵/",
+      "/ɕin⁵⁵ t͡ɕi̯ä⁵⁵ pu̯ɔ⁵⁵/",
+      "/sɐn ⁵⁵ kaː³³ pɔː ⁵⁵ /"
+    ],
+    "audio": {
+      "file": "assets/audio/1efe3a8ed79a055b.mp3",
+      "title": "Zh-nan-czhu,_新加坡.ogg",
+      "author": "Austin Zhang",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Zh-nan-czhu%2C_%E6%96%B0%E5%8A%A0%E5%9D%A1.ogg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/2/22/Zh-nan-czhu%2C_%E6%96%B0%E5%8A%A0%E5%9D%A1.ogg/Zh-nan-czhu%2C_%E6%96%B0%E5%8A%A0%E5%9D%A1.ogg.mp3",
+      "duration": "1",
+      "language": "Mandarin"
+    }
+  },
+  "SGP-1": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/Singapore",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "/ˈsɪŋəpɔː/",
+      "/ˈsɪŋəpoː/",
+      "/ˈsɪŋəpoɹ/"
+    ],
+    "audio": {
+      "file": "assets/audio/799e6a18e62c359e.mp3",
+      "title": "LL-Q1860_(eng)-Soundguys-Singapore.wav",
+      "author": "Speaker: Soundguys Recorder: Soundguys",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "source": "https://commons.wikimedia.org/wiki/File:LL-Q1860_%28eng%29-Soundguys-Singapore.wav",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/0/09/LL-Q1860_%28eng%29-Soundguys-Singapore.wav/LL-Q1860_%28eng%29-Soundguys-Singapore.wav.mp3",
+      "duration": "2",
+      "language": "English"
+    }
+  },
+  "SGP-3": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/%E0%AE%9A%E0%AE%BF%E0%AE%99%E0%AF%8D%E0%AE%95%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AF%82%E0%AE%B0%E0%AF%8D",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "/tʃɪŋɡɐpːuːɾ/",
+      "[sɪŋɡɐpːuːɾ]"
+    ],
+    "audio": {
+      "file": "assets/audio/9fbadd1b488c59e4.mp3",
+      "title": "Ta-சிங்கப்பூர்.ogg",
+      "author": "Booradleyp",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Ta-%E0%AE%9A%E0%AE%BF%E0%AE%99%E0%AF%8D%E0%AE%95%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AF%82%E0%AE%B0%E0%AF%8D.ogg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/3/37/Ta-%E0%AE%9A%E0%AE%BF%E0%AE%99%E0%AF%8D%E0%AE%95%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AF%82%E0%AE%B0%E0%AF%8D.ogg/Ta-%E0%AE%9A%E0%AE%BF%E0%AE%99%E0%AF%8D%E0%AE%95%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AF%82%E0%AE%B0%E0%AF%8D.ogg.mp3",
+      "duration": "2",
+      "language": "Tamil"
+    }
+  },
+  "SVN-0": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/Slovenija",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "/slɔʋèːnija/"
+    ]
+  },
+  "SVK-0": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/Slovensko",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "/slɔvenskɔ/",
+      "[ˈslɔʋenskɔ]",
+      "[ˈslɔʋen̠skɔ]"
+    ],
+    "audioOmitted": "Could not retrieve author/license metadata"
+  },
+  "SOM-0": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/Soomaaliya",
+    "lookup": "Language section retrieved"
+  },
+  "SLB-0": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/Solomon_Islands",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "/ˈsɒləmən ˈaɪləndz/",
+      "/ˈsɒl.ə.mən ˈaɪ.ləndz/",
+      "/ˈsɑ.lə.mən ˈaɪ.ləndz/"
+    ],
+    "audio": {
+      "file": "assets/audio/d8184c98292fcca9.mp3",
+      "title": "LL-Q1860_(eng)-Soundguys-Solomon_Islands.wav",
+      "author": "Speaker: Soundguys Recorder: Soundguys",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "source": "https://commons.wikimedia.org/wiki/File:LL-Q1860_%28eng%29-Soundguys-Solomon_Islands.wav",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/1/16/LL-Q1860_%28eng%29-Soundguys-Solomon_Islands.wav/LL-Q1860_%28eng%29-Soundguys-Solomon_Islands.wav.mp3",
+      "duration": "2",
+      "language": "English"
+    }
+  },
+  "SOM-1": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/%D8%A7%D9%84%D8%B5%D9%88%D9%85%D8%A7%D9%84",
+    "lookup": "No matching language section retrieved"
+  },
+  "ZAF-0": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/iNingizimu_Afrika",
+    "lookup": "Language section retrieved"
+  },
+  "ZAF-1": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/South_Africa",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "/ˌsaʊθ ˈæfɹɪkə/",
+      "/ˌsawθ ˈafɹɪkə/",
+      "/ˌsæɔθ ˈæfɹɪkə/"
+    ],
+    "audio": {
+      "file": "assets/audio/98653e65e8c02fce.mp3",
+      "title": "En-US-South_Africa.wav",
+      "author": "SalomeCzapiewski",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:En-US-South_Africa.wav",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/c/ce/En-US-South_Africa.wav/En-US-South_Africa.wav.mp3",
+      "duration": "2",
+      "language": "English"
+    }
+  },
+  "ZAF-2": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/Suid-Afrika",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "[səitˈafrikɑː]"
+    ],
+    "audio": {
+      "file": "assets/audio/9bf85f6fad60fb7d.mp3",
+      "title": "Af-Suid-Afrika.oga",
+      "author": "J. Brand",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Af-Suid-Afrika.oga",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/9/9d/Af-Suid-Afrika.oga/Af-Suid-Afrika.oga.mp3",
+      "duration": "1",
+      "language": "Afrikaans"
+    }
+  },
+  "ZAF-3": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/uMzantsi_Afrika",
+    "lookup": "No matching language section retrieved"
+  },
+  "ZAF-4": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/Afrika-Borwa",
+    "lookup": "No matching language section retrieved"
+  },
+  "ZAF-5": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/Afrika_Borwa",
+    "lookup": "No matching language section retrieved"
+  },
+  "ZAF-6": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/Aforika_Borwa",
+    "lookup": "No matching language section retrieved"
+  },
+  "ZAF-8": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/Afrika_Dzonga",
+    "lookup": "Language section retrieved"
+  },
+  "ZAF-9": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/iNingizimu_Afrika",
+    "lookup": "No matching language section retrieved"
+  },
+  "ZAF-7": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/Afurika_Tshipembe",
+    "lookup": "No matching language section retrieved"
+  },
+  "ZAF-10": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/iSewula_Afrika",
+    "lookup": "No matching language section retrieved"
+  },
+  "KOR-0": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/%ED%95%9C%EA%B5%AD",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "[ˈha̠(ː)nɡuk̚]"
+    ],
+    "audio": {
+      "file": "assets/audio/d39d21490cc339f7.mp3",
+      "title": "Ko-한국.oga",
+      "author": "Ryu, Cheol",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "source": "https://commons.wikimedia.org/wiki/File:Ko-%ED%95%9C%EA%B5%AD.oga",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/7/7b/Ko-%ED%95%9C%EA%B5%AD.oga/Ko-%ED%95%9C%EA%B5%AD.oga.mp3",
+      "duration": "3",
+      "language": "Korean"
+    }
+  },
+  "SSD-0": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/South_Sudan",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "/ˌsaʊθ suˈdæn/"
+    ],
+    "audio": {
+      "file": "assets/audio/ecd8e439c1a51c45.mp3",
+      "title": "LL-Q1860_(eng)-Soundguys-South_Sudan.wav",
+      "author": "Speaker: Soundguys Recorder: Soundguys",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "source": "https://commons.wikimedia.org/wiki/File:LL-Q1860_%28eng%29-Soundguys-South_Sudan.wav",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/5/5b/LL-Q1860_%28eng%29-Soundguys-South_Sudan.wav/LL-Q1860_%28eng%29-Soundguys-South_Sudan.wav.mp3",
+      "duration": "2",
+      "language": "English"
+    }
+  },
+  "ESP-0": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/Espa%C3%B1a",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "/esˈpaɲa/",
+      "[esˈpa.ɲa]"
+    ],
+    "audio": {
+      "file": "assets/audio/98f351b9fe4241d7.mp3",
+      "title": "Es-España.ogg",
+      "author": "Susana Freixeiro",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "source": "https://commons.wikimedia.org/wiki/File:Es-Espa%C3%B1a.ogg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/6/64/Es-Espa%C3%B1a.ogg/Es-Espa%C3%B1a.ogg.mp3",
+      "duration": "2",
+      "language": "Spanish"
+    }
+  },
+  "ESP-1": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/Espanya",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "[əsˈpa.ɲə]",
+      "[esˈpa.ɲa]"
+    ],
+    "audio": {
+      "file": "assets/audio/30515c0a6b441aea.mp3",
+      "title": "LL-Q7026_(cat)-Millars-Espanya.wav",
+      "author": "Speaker: Millars Recorder: Millars",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:LL-Q7026_%28cat%29-Millars-Espanya.wav",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/9/9a/LL-Q7026_%28cat%29-Millars-Espanya.wav/LL-Q7026_%28cat%29-Millars-Espanya.wav.mp3",
+      "duration": "2",
+      "language": "Catalan"
+    }
+  },
+  "ESP-3": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/Espa%C3%B1a",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "/esˈpaɲa/",
+      "[es̺ˈpa.ɲɐ]"
+    ],
+    "audio": {
+      "file": "assets/audio/c3c020dfd16bfefe.mp3",
+      "title": "Gl-España.ogg",
+      "author": "Roi González Villa (Vivaelcelta)",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Gl-Espa%C3%B1a.ogg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/8/84/Gl-Espa%C3%B1a.ogg/Gl-Espa%C3%B1a.ogg.mp3",
+      "duration": "2",
+      "language": "Galician"
+    }
+  },
+  "ESP-2": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/Espainia",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "/es̺pai̯nia/",
+      "[es̺.pai̯.ni.a]",
+      "/es̺paɲia/"
+    ],
+    "audio": {
+      "file": "assets/audio/2d958d8f79364b23.mp3",
+      "title": "LL-Q8752_(eus)-Xabier_Cañas-Espainia.wav",
+      "author": "Speaker: Xabier Cañas Recorder: Xabier Cañas",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:LL-Q8752_%28eus%29-Xabier_Ca%C3%B1as-Espainia.wav",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/1/17/LL-Q8752_%28eus%29-Xabier_Ca%C3%B1as-Espainia.wav/LL-Q8752_%28eus%29-Xabier_Ca%C3%B1as-Espainia.wav.mp3",
+      "duration": "2",
+      "language": "Basque"
+    }
+  },
+  "LKA-0": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/%E0%B7%81%E0%B7%8A%E2%80%8D%E0%B6%BB%E0%B7%93_%E0%B6%BD%E0%B6%82%E0%B6%9A%E0%B7%8F%E0%B7%80",
+    "lookup": "Language section retrieved"
+  },
+  "LKA-1": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/%E0%AE%87%E0%AE%B2%E0%AE%99%E0%AF%8D%E0%AE%95%E0%AF%88",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "/ɪlɐŋɡɐɪ̯/"
+    ],
+    "audio": {
+      "file": "assets/audio/7d84273cb22355a8.mp3",
+      "title": "Ta-இலங்கை.ogg",
+      "author": "AMALAN619",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Ta-%E0%AE%87%E0%AE%B2%E0%AE%99%E0%AF%8D%E0%AE%95%E0%AF%88.ogg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/9/97/Ta-%E0%AE%87%E0%AE%B2%E0%AE%99%E0%AF%8D%E0%AE%95%E0%AF%88.ogg/Ta-%E0%AE%87%E0%AE%B2%E0%AE%99%E0%AF%8D%E0%AE%95%E0%AF%88.ogg.mp3",
+      "duration": "2",
+      "language": "Tamil"
+    }
+  },
+  "SDN-0": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/%D8%A7%D9%84%D8%B3%D9%88%D8%AF%D8%A7%D9%86",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "/as.suː.daːn/"
+    ],
+    "audio": {
+      "file": "assets/audio/8c57a6f66ed371b0.mp3",
+      "title": "LL-Q13955_(ara)-AlNatiq-السودان.wav",
+      "author": "Speaker: AlNatiq Recorder: AlNatiq",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "source": "https://commons.wikimedia.org/wiki/File:LL-Q13955_%28ara%29-AlNatiq-%D8%A7%D9%84%D8%B3%D9%88%D8%AF%D8%A7%D9%86.wav",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/4/49/LL-Q13955_%28ara%29-AlNatiq-%D8%A7%D9%84%D8%B3%D9%88%D8%AF%D8%A7%D9%86.wav/LL-Q13955_%28ara%29-AlNatiq-%D8%A7%D9%84%D8%B3%D9%88%D8%AF%D8%A7%D9%86.wav.mp3",
+      "duration": "2",
+      "language": "Arabic"
+    }
+  },
+  "SWE-0": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/Sverige",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "/ˈsvɛrjɛ/",
+      "[ˈs̪væ̝rjɛ̠]"
+    ],
+    "audioOmitted": "Incomplete author/license metadata"
+  },
+  "SUR-0": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/Suriname",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "/ˌsyriˈnaːmə/"
+    ],
+    "audio": {
+      "file": "assets/audio/27def044458a59f3.mp3",
+      "title": "Nl-Suriname.ogg",
+      "author": "Marcel coenders",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Nl-Suriname.ogg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/7/70/Nl-Suriname.ogg/Nl-Suriname.ogg.mp3",
+      "duration": "2",
+      "language": "Dutch"
+    }
+  },
+  "CHE-0": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/Schweiz",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "/ʃvaɪ̯ts/",
+      "/ʃveɪ̯ts/"
+    ],
+    "audio": {
+      "file": "assets/audio/5ad0806dea4a0201.mp3",
+      "title": "De-Schweiz.ogg",
+      "author": "Hedwig von Ebbel",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:De-Schweiz.ogg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/8/8d/De-Schweiz.ogg/De-Schweiz.ogg.mp3",
+      "duration": "1",
+      "language": "German"
+    }
+  },
+  "CHE-1": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/Suisse",
+    "lookup": "No matching language section retrieved"
+  },
+  "CHE-2": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/Svizzera",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "/ˈzvit.t͡se.ra/"
+    ],
+    "audio": {
+      "file": "assets/audio/f6edad45ffcfa455.mp3",
+      "title": "LL-Q652_(ita)-XANA000-Svizzera.wav",
+      "author": "Speaker: XANA000 Recorder: XANA000",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "source": "https://commons.wikimedia.org/wiki/File:LL-Q652_%28ita%29-XANA000-Svizzera.wav",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/1/17/LL-Q652_%28ita%29-XANA000-Svizzera.wav/LL-Q652_%28ita%29-XANA000-Svizzera.wav.mp3",
+      "duration": "2",
+      "language": "Italian"
+    }
+  },
+  "CHE-3": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/Svizra",
+    "lookup": "No matching language section retrieved"
+  },
+  "SYR-0": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/%D8%B3%D9%88%D8%B1%D9%8A%D8%A9",
+    "lookup": "Language section retrieved"
+  },
+  "STP-0": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/S%C3%A3o_Tom%C3%A9_e_Pr%C3%ADncipe",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "/ˈsɐ̃w̃ toˈmɛ i ˈpɾĩ.si.pi/",
+      "[ˈsɐ̃ʊ̯̃ toˈmɛ i ˈpɾĩ.si.pi]",
+      "/ˈsɐ̃w̃ tuˈmɛ i ˈpɾĩ.sɨ.pɨ/"
+    ],
+    "audio": {
+      "file": "assets/audio/ba48a0c0120a3660.mp3",
+      "title": "LL-Q5146_(por)-Gaygarin-São_Tomé_e_Príncipe.wav",
+      "author": "Speaker: Gaygarin Recorder: Gaygarin",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "source": "https://commons.wikimedia.org/wiki/File:LL-Q5146_%28por%29-Gaygarin-S%C3%A3o_Tom%C3%A9_e_Pr%C3%ADncipe.wav",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/2/20/LL-Q5146_%28por%29-Gaygarin-S%C3%A3o_Tom%C3%A9_e_Pr%C3%ADncipe.wav/LL-Q5146_%28por%29-Gaygarin-S%C3%A3o_Tom%C3%A9_e_Pr%C3%ADncipe.wav.mp3",
+      "duration": "2",
+      "language": "Portuguese"
+    }
+  },
+  "TWN-0": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/%E8%87%BA%E7%81%A3",
+    "lookup": "Language section retrieved",
+    "audio": {
+      "file": "assets/audio/c6ae80c0ce3d4571.mp3",
+      "title": "Zh-Taiwan.ogg",
+      "author": "No machine-readable author provided. Peter Isotalo assumed (based on copyright claims).",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "source": "https://commons.wikimedia.org/wiki/File:Zh-Taiwan.ogg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/2/25/Zh-Taiwan.ogg/Zh-Taiwan.ogg.mp3",
+      "duration": "2",
+      "language": "Mandarin",
+      "speakerNote": "Source identifies a non-native speaker."
+    }
+  },
+  "TZA-0": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/Tanzania",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "/tɑ.ⁿzɑˈni.ɑ/"
+    ],
+    "audio": {
+      "file": "assets/audio/2ed7876d4dabdb22.mp3",
+      "title": "Sw-ke-Tanzania.flac",
+      "author": "Waithera Were",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Sw-ke-Tanzania.flac",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/a/ae/Sw-ke-Tanzania.flac/Sw-ke-Tanzania.flac.mp3",
+      "duration": "2",
+      "language": "Swahili"
+    }
+  },
+  "TJK-0": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/%D0%A2%D0%BE%D2%B7%D0%B8%D0%BA%D0%B8%D1%81%D1%82%D0%BE%D0%BD",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "/tod͡ʒikiston/",
+      "[t̪ʰɔ.d͡ʒi.kʰis.t̪ʰɔn]"
+    ],
+    "audio": {
+      "file": "assets/audio/1c5378c748a3d838.mp3",
+      "title": "LL-Q9260_(tgk)-Rumsor-Тоҷикистон.wav",
+      "author": "Speaker: Rumsor Recorder: Rumsor",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "source": "https://commons.wikimedia.org/wiki/File:LL-Q9260_%28tgk%29-Rumsor-%D0%A2%D0%BE%D2%B7%D0%B8%D0%BA%D0%B8%D1%81%D1%82%D0%BE%D0%BD.wav",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/0/08/LL-Q9260_%28tgk%29-Rumsor-%D0%A2%D0%BE%D2%B7%D0%B8%D0%BA%D0%B8%D1%81%D1%82%D0%BE%D0%BD.wav/LL-Q9260_%28tgk%29-Rumsor-%D0%A2%D0%BE%D2%B7%D0%B8%D0%BA%D0%B8%D1%81%D1%82%D0%BE%D0%BD.wav.mp3",
+      "duration": "2",
+      "language": "Tajik"
+    }
+  },
+  "TLS-0": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/Timor_Lorosa%27e",
+    "lookup": "No matching language section retrieved"
+  },
+  "TLS-1": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/Timor-Leste",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "/t͡ʃiˈmoʁ ˈlɛs.t͡ʃi/",
+      "[t͡ʃiˈmoɦ ˈlɛs.t͡ʃi]",
+      "/t͡ʃiˈmoɾ ˈlɛs.t͡ʃi/"
+    ]
+  },
+  "THA-0": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%97%E0%B8%A8%E0%B9%84%E0%B8%97%E0%B8%A2",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "/tʰaj˧/",
+      "/tʰaj˧.ja˦˥./"
+    ],
+    "audio": {
+      "file": "assets/audio/8f74625abb90543a.mp3",
+      "title": "Th-Thai.ogg",
+      "author": "Alifshinobi",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Th-Thai.ogg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/6/67/Th-Thai.ogg/Th-Thai.ogg.mp3",
+      "duration": "1",
+      "language": "Thai"
+    }
+  },
+  "TON-0": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/Tonga",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "/to.ŋa/"
+    ]
+  },
+  "TGO-0": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/Togo",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "/to.ɡo/"
+    ],
+    "audio": {
+      "file": "assets/audio/e586afaba901439f.mp3",
+      "title": "Fr-Togo.ogg",
+      "author": "Clément Bucco-Lechat",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Fr-Togo.ogg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/9/9c/Fr-Togo.ogg/Fr-Togo.ogg.mp3",
+      "duration": "1",
+      "language": "French"
+    }
+  },
+  "TTO-0": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/Trinidad_and_Tobago",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "/ˌtɹɪn.ɪ.dæd ænd təˈbeɪ.ɡəʊ/",
+      "/ˌtɹɪn.ə.dæd æn(d) təˈbeɪ.ɡəʊ/",
+      "/ˌtɹɪn.ɪ.dæd ænd toʊˈbeɪ.ɡoʊ/"
+    ],
+    "audioOmitted": "Could not retrieve author/license metadata"
+  },
+  "TUN-0": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/%D8%AA%D9%88%D9%86%D8%B3",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "/tuː.nus/",
+      "/tuː.nis/"
+    ]
+  },
+  "TUV-0": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/Tuvalu",
+    "lookup": "No matching language section retrieved"
+  },
+  "TKM-0": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/T%C3%BCrkmenistan",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "/tyɾkˌmeniθˈtɑːn/",
+      "[t̪ʏɾ̊k̟ˌmø̞nʏθˈθɑ̝ːn]"
+    ],
+    "audioOmitted": "Incomplete author/license metadata"
+  },
+  "TUR-0": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/T%C3%BCrkiye",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "/ˈtyɾ.ci.je/",
+      "[t̪ýɾ.k̟i.jɛ]"
+    ],
+    "audio": {
+      "file": "assets/audio/d142220988438525.mp3",
+      "title": "LL-Q256_(tur)-ToprakM-Türkiye.wav",
+      "author": "Speaker: ToprakM Recorder: ToprakM",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:LL-Q256_%28tur%29-ToprakM-T%C3%BCrkiye.wav",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/9/95/LL-Q256_%28tur%29-ToprakM-T%C3%BCrkiye.wav/LL-Q256_%28tur%29-ToprakM-T%C3%BCrkiye.wav.mp3",
+      "duration": "1",
+      "language": "Turkish"
+    }
+  },
+  "UGA-0": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/Uganda",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "/uˈɠɑ.ⁿdɑ/"
+    ],
+    "audio": {
+      "file": "assets/audio/2059171089273745.mp3",
+      "title": "Sw-ke-Uganda.flac",
+      "author": "Waithera Were",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Sw-ke-Uganda.flac",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/8/87/Sw-ke-Uganda.flac/Sw-ke-Uganda.flac.mp3",
+      "duration": "1",
+      "language": "Swahili"
+    }
+  },
+  "ARE-0": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA_%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9_%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D8%AF%D8%A9",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "/al.ʔi.maː.raːt al.ʕa.ra.bij.ja‿l.mut.ta.ħi.da/"
+    ]
+  },
+  "UKR-0": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B0",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "[ʊkrɐˈjinɐ]",
+      "[ʊˈkrajinɐ]"
+    ],
+    "audio": {
+      "file": "assets/audio/406177803a5b6e3a.mp3",
+      "title": "LL-Q8798_(ukr)-Vshmorgun-Україна.wav",
+      "author": "Speaker: Vshmorgun Recorder: Vshmorgun",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "source": "https://commons.wikimedia.org/wiki/File:LL-Q8798_%28ukr%29-Vshmorgun-%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B0.wav",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/c/c0/LL-Q8798_%28ukr%29-Vshmorgun-%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B0.wav/LL-Q8798_%28ukr%29-Vshmorgun-%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B0.wav.mp3",
+      "duration": "2",
+      "language": "Ukrainian"
+    }
+  },
+  "GBR-1": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/Y_Deyrnas_Unedig",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "/ˌteɨ̯rnas ɨ̞ˈnɛdɪɡ/",
+      "/ə ˌdeɨ̯rnas ɨ̞ˈnɛdɪɡ/",
+      "/ˌtei̯rnas ɪˈneːdɪɡ/"
+    ]
+  },
+  "GBR-0": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/United_Kingdom",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "/juːˌnaɪ.tɪd ˈkɪŋ.dəm/",
+      "/jʊˌnaɪ.tɪd ˈkɪŋ.dəm/",
+      "/jəˌnaɪ.tɪd ˈkɪŋ.dəm/"
+    ],
+    "audio": {
+      "file": "assets/audio/4925e0bb8e292677.mp3",
+      "title": "LL-Q1860_(eng)-Soundguys-United_Kingdom.wav",
+      "author": "Speaker: Soundguys Recorder: Soundguys",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "source": "https://commons.wikimedia.org/wiki/File:LL-Q1860_%28eng%29-Soundguys-United_Kingdom.wav",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/a/aa/LL-Q1860_%28eng%29-Soundguys-United_Kingdom.wav/LL-Q1860_%28eng%29-Soundguys-United_Kingdom.wav.mp3",
+      "duration": "2",
+      "language": "English"
+    }
+  },
+  "GBR-2": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/R%C3%ACoghachd_Aonaichte",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "/ˈrˠiə.əxk ˈɯːnɪçtʲə/"
+    ]
+  },
+  "GBR-3": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/R%C3%ADocht_Aontaithe",
+    "lookup": "Language section retrieved"
+  },
+  "GBR-4": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/Unitit_Kinrick",
+    "lookup": "Language section retrieved"
+  },
+  "GBR-5": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/An_Rywvaneth_Unys",
+    "lookup": "No matching language section retrieved"
+  },
+  "USA-1": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/%CA%BBAmelika_Hui_P%C5%AB_%CA%BBIa",
+    "lookup": "Language section retrieved"
+  },
+  "USA-0": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/United_States",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "/juːˌnaɪtɨd ˈsteɪts/",
+      "/jʊˌnaɪtɨd ˈsteɪts/",
+      "/juˌnaɪtɪ̈d ˈsteɪts/"
+    ],
+    "audio": {
+      "file": "assets/audio/c09c7fb1b043dfe7.mp3",
+      "title": "LL-Q1860_(eng)-Soundguys-United_States.wav",
+      "author": "Speaker: Soundguys Recorder: Soundguys",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "source": "https://commons.wikimedia.org/wiki/File:LL-Q1860_%28eng%29-Soundguys-United_States.wav",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/5/55/LL-Q1860_%28eng%29-Soundguys-United_States.wav/LL-Q1860_%28eng%29-Soundguys-United_States.wav.mp3",
+      "duration": "2",
+      "language": "English"
+    }
+  },
+  "USA-2": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/Estados_Unidos",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "/esˌtados uˈnidos/",
+      "[esˌt̪a.ð̞os uˈni.ð̞os]"
+    ],
+    "audio": {
+      "file": "assets/audio/b6d461f58d137183.mp3",
+      "title": "LL-Q1321_(spa)-Rodelar-Estados_Unidos.wav",
+      "author": "Speaker: Rodelar Recorder: Rodelar",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:LL-Q1321_%28spa%29-Rodelar-Estados_Unidos.wav",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/1/19/LL-Q1321_%28spa%29-Rodelar-Estados_Unidos.wav/LL-Q1321_%28spa%29-Rodelar-Estados_Unidos.wav.mp3",
+      "duration": "2",
+      "language": "Spanish"
+    }
+  },
+  "URY-0": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/Uruguay",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "/uɾuˈɡwai/",
+      "[u.ɾuˈɣ̞wai̯]"
+    ],
+    "audioOmitted": "Incomplete author/license metadata"
+  },
+  "UZB-0": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/O%E2%80%98zbekiston",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "/oz.be.kis.tɒn/",
+      "[ɵz.be̞.k̟ɪs.t̪ɒ̽n]"
+    ]
+  },
+  "VUT-0": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/Vanuatu",
+    "lookup": "Language section retrieved"
+  },
+  "VUT-1": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/Vanuatu",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "/va.nɥa.ty/"
+    ],
+    "audio": {
+      "file": "assets/audio/92578407f8051061.mp3",
+      "title": "LL-Q150_(fra)-GrandCelinien-Vanuatu.wav",
+      "author": "Speaker: GrandCelinien Recorder: GrandCelinien",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_%28fra%29-GrandCelinien-Vanuatu.wav",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/b/b8/LL-Q150_%28fra%29-GrandCelinien-Vanuatu.wav/LL-Q150_%28fra%29-GrandCelinien-Vanuatu.wav.mp3",
+      "duration": "2",
+      "language": "French"
+    }
+  },
+  "VUT-2": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/Vanuatu",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "/ˌvænuːˈaːtuː/",
+      "/væn.uːˈɑː.tuː/",
+      "/vɑ.nuˈɑ.tu/"
+    ],
+    "audio": {
+      "file": "assets/audio/375838ede72bfb57.mp3",
+      "title": "en-us-Vanuatu.ogg",
+      "author": "EncycloPetey",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:en-us-Vanuatu.ogg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/3/34/En-us-Vanuatu.ogg/En-us-Vanuatu.ogg.mp3",
+      "duration": "2",
+      "language": "English"
+    }
+  },
+  "VAT-1": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/Civitas_Vaticana",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "[ˈkiː.wɪ.taːs waː.tɪˈkaː.na]",
+      "[ˈt͡ʃiː.vi.tas va.tiˈkaː.na]"
+    ]
+  },
+  "VAT-0": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/Citt%C3%A0_del_Vaticano",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "/t͡ʃitˈta‿d.del va.tiˈka.no/"
+    ],
+    "audioOmitted": "Could not retrieve author/license metadata"
+  },
+  "VNM-0": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/Vi%E1%BB%87t_Nam",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "[viət̚˧˨ʔ naːm˧˧]",
+      "[viək̚˨˩ʔ naːm˧˧]",
+      "[viək̚˨˩˨ naːm˧˧]"
+    ],
+    "audio": {
+      "file": "assets/audio/4cbe87952370065f.mp3",
+      "title": "Vietnam.ogg",
+      "author": "Grenouille vert",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Vietnam.ogg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/c/cb/Vietnam.ogg/Vietnam.ogg.mp3",
+      "duration": "3",
+      "language": "Vietnamese"
+    }
+  },
+  "VEN-0": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/Venezuela",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "/beneˈθwela/",
+      "[be.neˈθwe.la]",
+      "/beneˈswela/"
+    ],
+    "audioOmitted": "Incomplete author/license metadata"
+  },
+  "YEM-0": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/%D8%A7%D9%84%D9%8A%D9%85%D9%86",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "/al.ja.man/"
+    ]
+  },
+  "ZMB-0": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/Zambia",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "/ˈzæmbiə/"
+    ],
+    "audio": {
+      "file": "assets/audio/d2df523999ec8a31.mp3",
+      "title": "LL-Q1860_(eng)-Vealhurl-Zambia.wav",
+      "author": "Speaker: Vealhurl Recorder: Vealhurl",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:LL-Q1860_%28eng%29-Vealhurl-Zambia.wav",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/9/9b/LL-Q1860_%28eng%29-Vealhurl-Zambia.wav/LL-Q1860_%28eng%29-Vealhurl-Zambia.wav.mp3",
+      "duration": "2",
+      "language": "English"
+    }
+  },
+  "ZWE-0": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/Zimbabwe",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "/z̤i.ᵐba.bwe/"
+    ]
+  },
+  "ZWE-1": {
+    "pronunciationSource": "https://en.wiktionary.org/wiki/Zimbabwe",
+    "lookup": "Language section retrieved",
+    "ipa": [
+      "/zɪmˈbɑːbweɪ/",
+      "/zɪmˈbɑːbwɛj/",
+      "/zɪmˈbɑbweɪ/"
+    ],
+    "audio": {
+      "file": "assets/audio/59b187bbf38ce35c.mp3",
+      "title": "LL-Q1860_(eng)-Vealhurl-Zimbabwe.wav",
+      "author": "Speaker: Vealhurl Recorder: Vealhurl",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:LL-Q1860_%28eng%29-Vealhurl-Zimbabwe.wav",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/8/8d/LL-Q1860_%28eng%29-Vealhurl-Zimbabwe.wav/LL-Q1860_%28eng%29-Vealhurl-Zimbabwe.wav.mp3",
+      "duration": "2",
+      "language": "English"
+    }
+  }
+}

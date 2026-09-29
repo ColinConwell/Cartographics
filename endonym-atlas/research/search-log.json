@@ -1,0 +1,206 @@
+{
+  "retrieved": "2026-09-25",
+  "provider": "Firecrawl",
+  "searches": [
+    {
+      "query": "site:wikipedia.org countries native names pronunciation audio endonym map",
+      "results": [
+        {
+          "title": "List of countries and dependencies and their capitals in native languages",
+          "url": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_and_their_capitals_in_native_languages",
+          "description": "The following chart lists countries and dependencies along with their capital cities, in English and non-English official language(s). Country (endonym) native ..."
+        },
+        {
+          "title": "Endonym and exonym - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Endonym_and_exonym",
+          "description": "A map demonstrating the wide diversity of exonyms for Germany, in pronunciation or orthography; World map of country endonyms"
+        },
+        {
+          "title": "List of country-name etymologies - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/List_of_country-name_etymologies",
+          "description": "This list covers English-language country names with their etymologies. Some of these include notes on indigenous names and their etymologies."
+        },
+        {
+          "title": "Names of Japan - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Names_of_Japan",
+          "description": "The word Japan is an exonym, and is used. Chinese enunciation of the name, derived names of Japan appeared on early-modern European maps. Japan is the only ..."
+        },
+        {
+          "title": "English exonyms - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/English_exonyms",
+          "description": "Near-identical names in pronunciation or spelling are included, but countries named with non-proper nouns"
+        }
+      ]
+    },
+    {
+      "query": "site:wikipedia.org Names of India Japan China South Africa official names",
+      "results": [
+        {
+          "title": "List of alternative country names - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/List_of_alternative_country_names",
+          "description": "This article attempts to give all known alternative names and initialisms for all nations, countries, al-Jazāʾir. ZAF South Africa a Republic of South Africa ( ..."
+        },
+        {
+          "title": "List of countries and dependencies and their capitals in native languages",
+          "url": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_and_their_capitals_in_native_languages",
+          "description": "The following chart lists countries and dependencies along with their capital cities, in English and non-English official language(s)."
+        },
+        {
+          "title": "Names of India - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Names_of_India",
+          "description": "The Republic of India is principally known by two official short names: India and Bharat. Bharat 5 Hind/Hindustan 6 Jambudvīpa 7 Gyagar and Phagyul 8 Tianzhu 9 ..."
+        },
+        {
+          "title": "South Africa - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/South_Africa",
+          "description": "List of official names of South Africa. South Africa joined the Brazil-Russia-India-China (BRICS) grouping of countries, identified by Zuma as the country's ..."
+        },
+        {
+          "title": "Names of Japan - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Names_of_Japan",
+          "description": "The Japanese names for Japan are Nihon. Jepang, Jipang, and Jepun. The official Japanese-language name is Nippon-koku or Nihon-koku"
+        }
+      ]
+    },
+    {
+      "query": "site:wikipedia.org List of sovereign states 193 2 observer states Kosovo Taiwan",
+      "results": [
+        {
+          "title": "List of sovereign states - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/List_of_sovereign_states",
+          "description": "The following is a list providing an overview of sovereign states around the world with information on their status and recognition of their sovereignty."
+        },
+        {
+          "title": "Member states of the United Nations - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Member_states_of_the_United_Nations",
+          "description": "The United Nations comprise 193 sovereign states ... Since 2015, the flags of the two observer states are raised alongside those of the 193 member states."
+        },
+        {
+          "title": "List of states with limited recognition - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/List_of_states_with_limited_recognition",
+          "description": "Kosovo declared its independence in 2008. [79] It is recognised by 110 UN members, Taiwan, the Cook Islands and Niue. 8 other UN members have recognised Kosovo"
+        },
+        {
+          "title": "List of sovereign states and dependent territories by continent",
+          "url": "https://en.wikipedia.org/wiki/List_of_sovereign_states_and_dependent_territories_by_continent",
+          "description": "Partially recognised de facto sovereign states with UN membership, such as the Republic of Kosovo and the Republic of China (Taiwan)."
+        },
+        {
+          "title": "List of modern sovereign states by date of formation - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/List_of_modern_sovereign_states_by_date_of_formation",
+          "description": "This list includes the 195 states which are currently member states. Nations or non-member observer states … partially-recognized non-member Kosovo."
+        }
+      ]
+    },
+    {
+      "query": "site:en.wikipedia.org \"South Africa\" \"Sign Language\" \"twelve\"",
+      "results": [
+        {
+          "title": "South African Sign Language - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/South_African_Sign_Language",
+          "description": "There are as many as twelve different systems of signed oral language in South Africa. In addition to South African sign languages, American Sign Language (ASL) ..."
+        },
+        {
+          "title": "Languages of South Africa - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Languages_of_South_Africa",
+          "description": "South Africa is a linguistically diverse country and has twelve official languages: Ndebele, Sepedi, Sotho, South African Sign Language, Swazi, Tsonga ..."
+        },
+        {
+          "title": "Northern Sotho - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Northern_Sotho",
+          "description": "South Africa's official language policy refers to the twelve official languages of South Africa ... Sign Language (SASL)), as specified in the Constitution ..."
+        }
+      ]
+    },
+    {
+      "query": "site:en.wikipedia.org \"Kiribati\" \"Kiribas\"",
+      "results": [
+        {
+          "title": "Portal:Oceania/Daily article/10 - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Portal:Oceania/Daily_article/10",
+          "description": "Its name is pronounced /kiribas/ and is a Kiribati language rendering of \"Gilberts\", the English name for the main group of islands: the former Gilbert Islands."
+        },
+        {
+          "title": "File:Kiribati on the globe (Polynesia centered).svg - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/File:Kiribati_on_the_globe_(Polynesia_centered).svg",
+          "description": "Kiribati · List of butterflies of Kiribati · Teitiota v Chief Executive ... Kiribas. Usage on ar.wikipedia.org. كيريباتي · بوابة:كيريباتي · بوابة:كيريباتي ..."
+        },
+        {
+          "title": "File:Coat of arms of Kiribati.svg - Wikimedia Commons",
+          "url": "https://en.wikipedia.org/wiki/File:Coat_of_arms_of_Kiribati.svg",
+          "description": "Kiribati · National insignia · User:9BBWMJ/National insignia of the world · User ... ኪሪባስ. Usage on ang.wikipedia.org. Kiribas. Usage on an.wikipedia.org."
+        }
+      ]
+    },
+    {
+      "query": "site:en.wikipedia.org \"Names of New Zealand\" \"Aotearoa\"",
+      "results": [
+        {
+          "title": "New Zealand place names - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/New_Zealand_place_names",
+          "description": "... Aotearoa (commonly translated as 'long white cloud') has been used to refer ... Place Names of New Zealand. Revised by Peter Dowling. North Shore ..."
+        },
+        {
+          "title": "List of New Zealand place name etymologies - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/List_of_New_Zealand_place_name_etymologies",
+          "description": "Aotearoa – the common Māori name for New Zealand since the early 20th ... Place names of New Zealand. Wellington: A. H. & A. W. Reed. ISBN 0-589-00933 ..."
+        },
+        {
+          "title": "List of English words of Māori origin - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/List_of_English_words_of_M%C4%81ori_origin",
+          "description": "Word list · Aotearoa: New Zealand. · aroha: Love, sympathy, affection · arohanui: \"lots of love\", commonly as a complimentary close · haere mai: welcome · haka: a ..."
+        }
+      ]
+    },
+    {
+      "query": "site:en.wikipedia.org \"Mali\" \"official languages\" \"2023\"",
+      "results": [
+        {
+          "title": "Languages of Mali - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Languages_of_Mali",
+          "description": "Jump up to: 1 2 \"JOURNAL OFFICIEL DE LA REPUBLIQUE DU MALI SECRETARIAT GENERAL DU GOUVERNEMENT - DECRET N°2023-0401/PT-RM DU 22 JUILLET 2023 PORTANT ..."
+        },
+        {
+          "title": "Mali - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Mali",
+          "description": "Territorial units. edit · A map of former regions of Mali Regions of Mali since 2023 ... [Article 31: The national languages are the official languages of Mali.] ..."
+        },
+        {
+          "title": "List of official languages - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/List_of_official_languages",
+          "description": "Mali (with Tuareg and French); Mauritania (with several national languages ... Retrieved 27 May 2023. Spanish is one of the most widely spoken languages ..."
+        }
+      ]
+    },
+    {
+      "query": "site:en.wikipedia.org country endonyms Djibouti Eritrea Laos Saudi Arabia official native name",
+      "results": [
+        {
+          "title": "List of countries and dependencies and their capitals in native languages",
+          "url": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_and_their_capitals_in_native_languages",
+          "description": "The following chart lists countries and dependencies along with their capital cities, in English and non-English official language(s)."
+        },
+        {
+          "title": "List of country-name etymologies - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/List_of_country-name_etymologies",
+          "description": "This list covers English-language country names with their etymologies. Some of these include notes on indigenous names and their etymologies."
+        },
+        {
+          "title": "List of alternative country names - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/List_of_alternative_country_names",
+          "description": "République de Djibouti (official, French) SAU Saudi Arabia a Kingdom of Saudi Arabia (official, English), Saudia (former in English, common in Arabic)"
+        },
+        {
+          "title": "List of language names - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/List_of_language_names",
+          "description": "This article is a resource of the native names of most of the major languages in the world. Saudi Arabia, and United. Region, Ethiopia, and Sudan"
+        },
+        {
+          "title": "Atlas of first-level administrative divisions - Wikimedia Commons",
+          "url": "https://en.wikipedia.org/wiki/Commons:Atlas_of_first-level_administrative_divisions",
+          "description": "This Atlas of first-level administrative divisions shows maps of current first-level administrative subdivisions of sovereign states. Names in native languages"
+        }
+      ]
+    }
+  ]
+}

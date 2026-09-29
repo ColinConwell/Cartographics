@@ -1,0 +1,98 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="description" content="An interactive, offline atlas of country names in locally used languages, with Romanizations, pronunciation guides, and credited recordings.">
+  <meta name="theme-color" content="#253d36">
+  <title>Endonym Atlas — A World Named From Within</title>
+  <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="styles.css">
+  <script src="assets/vendor/d3.min.js" defer></script>
+  <script src="assets/vendor/topojson-client.min.js" defer></script>
+  <script src="data/world.js" defer></script>
+  <script src="data/countries.js" defer></script>
+  <script src="app.js" defer></script>
+</head>
+<body>
+  <a class="skip" href="#country-detail">Skip to Country Details</a>
+  <header class="masthead">
+    <h1>Endonym Atlas</h1><p>A World Named From Within</p>
+    <button class="text-button" id="about-button">About &amp; Sources</button>
+  </header>
+  <section class="toolbar" aria-label="Map controls">
+    <div class="label-controls"><span id="labels-heading">Map Labels</span>
+      <div class="segments" role="group" aria-labelledby="labels-heading">
+        <button data-mode="native" aria-pressed="true">Native Script</button>
+        <button data-mode="romanized" aria-pressed="false">Romanized</button>
+        <button data-mode="phonetic" aria-pressed="false">Pronunciation</button>
+      </div>
+    </div>
+    <div class="search-wrap">
+      <svg aria-hidden="true" viewBox="0 0 24 24"><circle cx="10" cy="10" r="6.5"/><path d="m15 15 5 5"/></svg>
+      <input id="search" type="search" autocomplete="off" placeholder="Find a country or language…" aria-label="Find a country or language" aria-expanded="false" aria-controls="search-results">
+      <div id="search-results" class="search-results" hidden></div>
+    </div>
+  </section>
+  <main>
+    <section id="map-panel" aria-label="Interactive world map">
+      <svg id="map" role="img" tabindex="0" aria-label="World map of endonyms. Drag to pan, scroll to zoom, or use arrow keys and plus or minus. Use Browse Countries for keyboard selection."></svg>
+      <div id="tooltip" role="tooltip" hidden></div>
+      <div class="map-tools" aria-label="Map navigation">
+        <button id="zoom-in" aria-label="Zoom in" title="Zoom in"><svg viewBox="0 0 24 24"><path d="M12 5v14M5 12h14"/></svg></button>
+        <button id="zoom-out" aria-label="Zoom out" title="Zoom out"><svg viewBox="0 0 24 24"><path d="M5 12h14"/></svg></button>
+        <button id="reset-map" aria-label="Reset world view" title="Reset world view"><svg viewBox="0 0 24 24"><path d="m4 11 8-7 8 7M7 10v10h10V10M10 20v-6h4v6"/></svg></button>
+      </div>
+      <button class="browse-button" id="browse-button"><svg viewBox="0 0 24 24"><path d="M8 6h12M8 12h12M8 18h12M3 6h1M3 12h1M3 18h1"/></svg>Browse Countries</button>
+      <div class="map-caption"><span>Drag to explore · Scroll to zoom</span><span id="mode-caption">Local orthography</span></div>
+    </section>
+    <aside id="country-detail" tabindex="-1" aria-label="Selected country details">
+      <div class="country-heading"><h2 id="english-name">Japan</h2><button id="locate-button" class="icon-button" aria-label="Zoom to selected country" title="Zoom to country"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="6"/><circle cx="12" cy="12" r="2"/><path d="M12 2v4m0 12v4M2 12h4m12 0h4"/></svg></button></div>
+      <div id="status-line" class="status-line"></div>
+      <div class="name-display"><div id="native-name" dir="auto">日本</div><div id="roman-name">Nihon</div></div>
+      <div class="language-control"><label for="language">Language &amp; Name</label><select id="language"></select><p id="language-hint" class="fine"></p></div>
+      <dl class="name-facts">
+        <div><dt>Native Script</dt><dd id="native-value" dir="auto"></dd></div>
+        <div><dt>Romanized</dt><dd id="roman-value"></dd></div>
+        <div><dt>Pronunciation</dt><dd id="phonetic-value"></dd></div>
+      </dl>
+      <p class="pronunciation-note">English approximation · Capitals suggest stress</p>
+      <div id="ipa-row" class="ipa-row" hidden></div>
+      <div id="recording"></div>
+      <p id="country-note" class="country-note"></p>
+      <section class="sources"><h3>Sources</h3><div id="source-links"></div>
+        <details id="more-names"><summary>More Names in the Source</summary><p id="source-names" dir="auto"></p><p id="source-languages"></p><p class="fine">Source spellings and language order are preserved. This reference may include formal names, alternate scripts and historical usage.</p></details>
+      </section>
+    </aside>
+  </main>
+  <footer><span>An endonym is a name used within a place. <a href="../index.html">Explore the Collection ↗</a></span><button id="coverage-button" class="text-button"></button></footer>
+  <div id="announcement" class="sr-only" aria-live="polite"></div>
+  <dialog id="about-dialog" aria-labelledby="about-title">
+    <div class="dialog-header"><h2 id="about-title">Names, Languages &amp; Sources</h2><button class="close icon-button" aria-label="Close"><svg viewBox="0 0 24 24"><path d="m6 6 12 12M18 6 6 18"/></svg></button></div>
+    <div class="dialog-body prose">
+      <p class="intro">The same place can have many names. This atlas explores names used by the people and languages within a country.</p>
+      <h3>What the Map Includes</h3>
+      <p id="coverage-description"></p>
+      <p>Each country has an editorial default label. It does not mean that one language is more legitimate, universally spoken, or the only official language. Use the language selector to explore the included alternatives. Some governments use a colonial language; those locally used names are endonyms too.</p>
+      <p>The scope is countries, rather than every dependency or territory. Territories appear as geographic context without independent entries. Kosovo and Taiwan are explicitly identified; Palestine and Vatican City are included. Boundaries use generalized Natural Earth data and do not resolve disputed sovereignty, occupation, or control.</p>
+      <h3>Three Ways to Read a Name</h3>
+      <p><strong>Native Script</strong> preserves local orthography. <strong>Romanized</strong> gives the name in Latin letters, retaining diacritics when available. For Latin-script names, the two are usually identical. Romanization systems differ by language; this is not a single uniform transliteration standard or an English translation.</p>
+      <p><strong>Pronunciation</strong> is an editorial approximation for English readers, not a phonetic transcription. “ah” resembles the vowel in <em>father</em>, “ee” in <em>see</em>, “oo” in <em>food</em>, “uh” an unstressed vowel, “kh” a rough sound like Scottish <em>loch</em>, “gh” its voiced counterpart, and “q” a deeper back-of-mouth k. Capitals suggest stress where useful; they do not encode pitch accent or tone. English cannot reproduce every native sound, vowel length, or accent. These guides have not been reviewed by native speakers for every language.</p>
+      <p>When available, the detail panel shows source IPA and a real recording from the matching Wiktionary language section. IPA may list several dialects; consult its source for context. Recordings are not synthesized. Speaker nativeness and regional representativeness are not independently certified. Unavailable recordings are marked explicitly.</p>
+      <h3>Research and Attribution</h3>
+      <p>The primary reference is Wikipedia’s <a href="https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_and_their_capitals_in_native_languages" target="_blank" rel="noopener">country endonym table</a>, supplemented by country articles and the <a href="https://en.wikipedia.org/wiki/Names_of_Japan" target="_blank" rel="noopener">Names of Japan</a>, <a href="https://en.wikipedia.org/wiki/Names_of_India" target="_blank" rel="noopener">Names of India</a>, <a href="https://en.wikipedia.org/wiki/Names_of_China" target="_blank" rel="noopener">Names of China</a> and <a href="https://en.wikipedia.org/wiki/Names_of_Korea" target="_blank" rel="noopener">Names of Korea</a> articles. The list itself has editorial warnings and is a research starting point, not a linguistic authority.</p>
+      <p>Pronunciation lookups use <a href="https://en.wiktionary.org/" target="_blank" rel="noopener">Wiktionary</a>. Recordings are bundled from Wikimedia Commons, with the original file, author and license linked next to each recording. Source material was retrieved on September 25, 2026. Per-country extracts, lookup results, editable data and build scripts are included in this folder.</p>
+      <p>Wikipedia and Wiktionary-derived text and this adapted name dataset are available under <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="noopener">CC BY-SA 4.0</a>; original contributors are credited through article history links. Audio keeps its individual license. Original interface code is MIT licensed. Natural Earth geometry is public domain; D3 and TopoJSON are locally bundled under their respective licenses. Country identifiers and coordinates are from <a href="https://github.com/mledoze/countries" target="_blank" rel="noopener">mledoze/countries</a> (ODbL).</p>
+      <h3>Use and Reuse</h3>
+      <p>Open <code>index.html</code> directly or serve the folder with any static web server. The map, names, code and recordings work offline; outbound source links require internet access. No analytics, API keys, accounts or external fonts are used. Local Noto font subsets support Tibetan, Thaana and Tifinagh; other scripts use your system fonts.</p>
+      <p><a href="data/countries.json" download>Download the Research Dataset (JSON)</a> · <a href="data/names.tsv" download>Download Editable Names (TSV)</a> · <a href="research/README.md">Research Notes</a></p>
+    </div>
+  </dialog>
+  <dialog id="browse-dialog" aria-labelledby="browse-title">
+    <div class="dialog-header"><h2 id="browse-title">Browse Countries</h2><button class="close icon-button" aria-label="Close"><svg viewBox="0 0 24 24"><path d="m6 6 12 12M18 6 6 18"/></svg></button></div>
+    <div class="browse-filters"><input id="browse-search" type="search" placeholder="Country, endonym or language" aria-label="Filter countries"><select id="region" aria-label="Filter by region"><option value="">All Regions</option><option>Africa</option><option>Americas</option><option>Asia</option><option>Europe</option><option>Oceania</option></select><label><input id="audio-only" type="checkbox"> With Recordings</label></div>
+    <p id="result-count" class="fine"></p><div id="country-list"></div>
+  </dialog>
+  <noscript>This atlas requires JavaScript. The names remain available in data/names.tsv.</noscript>
+</body>
+</html>

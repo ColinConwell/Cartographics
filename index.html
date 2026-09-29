@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="en" data-theme="observatory">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Four independent interactive atlases exploring local names, regional identities, map projections, and the histories of culinary plants.">
+  <meta name="theme-color" content="#101e28"><title>Cartographics — A Collection of Maps</title>
+  <link rel="icon" href="assets/compass.svg" type="image/svg+xml"><link rel="stylesheet" href="styles.css">
+  <script defer src="assets/vendor/d3.min.js"></script><script defer src="assets/vendor/topojson-client.min.js"></script><script defer src="assets/data/world.js"></script><script defer src="assets/geo.js"></script><script defer src="app.js"></script>
+</head>
+<body>
+  <a class="skip" href="#collection">Skip to the Collection</a>
+  <div class="page">
+    <header class="masthead"><a class="brand" href="index.html"><img src="assets/compass.svg" width="35" height="35" alt="">Cartographics</a><nav aria-label="Main"><a href="#collection">The Collection</a><a href="#about">About</a></nav></header>
+    <main>
+      <section class="hero" aria-labelledby="title">
+        <div class="hero-copy"><h1 id="title">A World of<br>Different Perspectives.</h1><p>Explorations of place, perspective, and the geographies that divide or connect us.</p><a class="explore" href="#collection">Explore the Collection <span aria-hidden="true">⟶</span></a></div>
+        <div class="globe-column"><div class="globe-frame"><svg id="globe" viewBox="0 0 540 480" role="img" aria-label="A revolving globe with geographic continents and a latitude–longitude grid"></svg><span class="globe-hint">Drag to turn the earth</span></div><div class="theme-controls" role="group" aria-label="Cartographic Style"><button data-theme="observatory" aria-pressed="true">Observatory</button><span aria-hidden="true">/</span><button data-theme="parchment" aria-pressed="false">Parchment</button><span aria-hidden="true">/</span><button data-theme="routes" aria-pressed="false">Routes</button><button id="motion" class="motion" aria-pressed="false">Pause Motion</button></div></div>
+      </section>
+      <section id="collection" class="collection" aria-labelledby="collection-title"><div class="section-heading"><h2 id="collection-title">The Collection</h2><span></span></div>
+        <a class="map-row" href="endonym-atlas/index.html"><svg class="preview" data-preview="endonyms" viewBox="0 0 230 100" aria-hidden="true"></svg><span class="number">01</span><div><h3>Endonym Atlas</h3><p>Country names in the languages of the people who live there.</p></div><span class="row-arrow" aria-hidden="true">⟶</span></a>
+        <a class="map-row" href="regional-endonyms/index.html"><svg class="preview" data-preview="regions" viewBox="0 0 230 100" aria-hidden="true"></svg><span class="number">02</span><div><h3>The Places They Know</h3><p>Regional names, cultural homelands, and the limits of a border.</p></div><span class="row-arrow" aria-hidden="true">⟶</span></a>
+        <a class="map-row" href="projection-room/index.html"><svg class="preview" data-preview="projections" viewBox="0 0 230 100" aria-hidden="true"></svg><span class="number">03</span><div><h3>The Projection Room</h3><p>One planet. Different geometries. Different compromises.</p></div><span class="row-arrow" aria-hidden="true">⟶</span></a>
+        <a class="map-row" href="spice-routes/index.html"><svg class="preview" data-preview="spices" viewBox="0 0 230 100" aria-hidden="true"></svg><span class="number">04</span><div><h3>A World Wanting Flavor</h3><p>An atlas of botanical origins and selected journeys through time.</p></div><span class="row-arrow" aria-hidden="true">⟶</span></a>
+      </section>
+      <section id="about" class="about"><h2>Every map is a point of view.</h2><p>These independent experiments explore how names, geometry, and histories change our view of the world. Each atlas includes its own sources and limitations, and runs entirely in your browser. The three newest maps are curated prototypes, not comprehensive inventories.</p><a href="LICENSES.md">Credits &amp; Licenses ↗</a></section>
+    </main><footer>An independent cartographic collection. <a href="https://github.com/ColinConwell/Cartographics">View the Repository ↗</a></footer>
+  </div><noscript><p class="no-script">The atlas links work without JavaScript. Enable JavaScript to explore interactive maps and themes.</p></noscript>
+</body></html>
